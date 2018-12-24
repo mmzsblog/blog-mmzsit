@@ -14,6 +14,7 @@
 - [J2ee框架](src/list/list_java_frame.md)
 - [Java基础精炼](src/best_recommendation/list_java_base.md)
 - [算法与数据结构](src/list/list_java_algorithm_datastructure.md)
+- [深入浅出数据库知识](src/list/list_java_database.md)
 - [深入理解JVM虚拟机](src/list/list_java_jvm.md)
 
 ## :computer:工具、视频资源 ##
