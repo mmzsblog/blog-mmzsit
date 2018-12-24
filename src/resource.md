@@ -1,0 +1,8 @@
+## 工具、视频资源
+
+1. [[资源分享]不吹牛全网!最全!!最新!!!最优质!!!!](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247484319&idx=1&sn=a8d42080815b5355f8faba48943d6ddb&chksm=f9934980cee4c09628e8e75402c62b804669888846c99df5ed78ac597a4562286a6b5d4fdf26&scene=21#wechat_redirect/)
+2. [【黑科技】人民币和电脑版微信双开的秘密](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247484177&idx=1&sn=3caca7f32ab5e22efef97149e000069a&chksm=f993490ecee4c018f932df232ec0fd83fa9e1154d1cb5e71f87a3d247b7d062b32fa20b41b3c&scene=21#wechat_redirect)
+3. [又给大家推荐两款神器了。](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247484144&idx=1&sn=5f69d696e5b192edc8923846225e66a0&chksm=f99348efcee4c1f9b50615f42d0f13694e1cb865163afb7c5e2b0d6a5ac3242b8e2af15568f5&scene=21#wechat_redirect)
+4. [给大家介绍一些自己常用、感觉很不错的效率工具](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247484037&idx=1&sn=d8289b6909ee82b61059aab67fb8e4a1&chksm=f993489acee4c18c39cd324e981eee7512ca2a8a00d975c63c45ecfd3a97e5b0619119292341&scene=21#wechat_redirect)
+5. [给大家推荐几个常用谷歌浏览器插件(不用翻墙也能使用谷歌搜索了)](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247484004&idx=1&sn=67081fbe90eb4768f4e3b325a9344628&chksm=f993487bcee4c16dce05bee4e91f8202f56138399223dde644e405e16a583c801e70788d3d19&scene=21#wechat_redirect)
+6. [一波视频福利（javase,EE;Linux;算法等等）](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247483754&idx=1&sn=cf5f9dd6149a92411607d6e2ba8a13f6&chksm=f9934b75cee4c26345d8783114a7592a1fd06b8b906a98f41350c6fad0f279719227dcdb6a42&scene=21#wechat_redirect)
