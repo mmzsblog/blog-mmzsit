@@ -1,9 +1,4 @@
 ## 其他推荐文章
 
 
-
-
-
-
-
-- [【整理分享】你需要的资源(更新版)](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484178&idx=2&sn=e9186c927f189c92b67138671204b807&chksm=fde8ca5fca9f4349002bdef4445c50baedb631a02d63720bc9065139899152dee9804493b99a&scene=0#rd)
+- [20个非常有用的JAVA程序片段（值得收藏）](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484064&idx=1&sn=e5347ef3d149dede86dd0126a84530a0&chksm=fde8cbedca9f42fb649f929df1593c2947f0c357b706d3ea34405b59272b78002348595b3300&scene=0#rd)

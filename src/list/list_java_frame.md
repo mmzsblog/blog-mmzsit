@@ -1,9 +1,8 @@
 ## J2ee框架
 
+- [一文看懂安全控制框架Apache Shiro](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484273&idx=1&sn=65d8a65e45b900302ad2db87288be6dc&chksm=fde8ca3cca9f432adb050c7873cf319eb3c92ae3cd07ec5a5e94ce2ac91554607097fec4b0a7&scene=0#rd)
+- [mybatis是如何防止SQL注入的](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247483896&idx=1&sn=a69bb0eee0206344edc0d08247c02015&chksm=fde8c8b5ca9f41a3b89d2712fcfadeb3cde9c99afa2f053726b16862bfdade749f6371268887&scene=0#rd)
+- [注解@CrossOrigin解决跨域问题](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247483889&idx=1&sn=75be291bfbe605256cb16de2f79f7e90&chksm=fde8c8bcca9f41aa85f37e402c24e296e2bbd257e13a15bfeb59632a3ed851cf13b0e9f78949&scene=0#rd)
+- [架构师必备，带你弄清混乱的JAVA日志体系！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484581&idx=1&sn=2b3e1931207410eb6e8f25fb91a996ad&chksm=fde8cde8ca9f44fe5f1197fb7d2cdb577ed797be32a939dc6bc3e19905fa793d6a24ca394ec9&scene=0#rd)
 
 
-
-
-
-
-- [【整理分享】你需要的资源(更新版)](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484178&idx=2&sn=e9186c927f189c92b67138671204b807&chksm=fde8ca5fca9f4349002bdef4445c50baedb631a02d63720bc9065139899152dee9804493b99a&scene=0#rd)
