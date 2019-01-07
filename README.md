@@ -14,6 +14,7 @@
 - [大数据](src/list/list_bigdata.md)
 - [设计模式](src/list/list_design_patterns.md)
 - [J2ee框架](src/list/list_java_frame.md)
+- [Python爬虫](src/list/list_python_spider.md)
 - [Java基础精炼](src/best_recommendation/list_java_base.md)
 - [算法与数据结构](src/list/list_java_algorithm_datastructure.md)
 - [深入浅出数据库知识](src/list/list_java_database.md)
