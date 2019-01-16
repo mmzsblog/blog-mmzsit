@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # 更新代码
-git pull
+git pull origin master
  
 # 提交到服务器git仓库
 git add .
