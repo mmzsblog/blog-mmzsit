@@ -1,6 +1,7 @@
 ## 奇思巧技
 - [解决浏览器无法访问Google等海外网站的问题](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=100000240&idx=1&sn=9649dbd4e727a056fc650b192f471dfd&chksm=7de8c8bd4a9f41ab7c693813deec45aa68fad54691f91bb9989c9807d8f581bcccc7e5b1269e&scene=0#rd)
 - [好用的Chrome插件推荐](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484041&idx=1&sn=eac236c83b5ad3f99db57889ed395260&chksm=fde8cbc4ca9f42d270771d90c4e541ecf9cbca92b8f7a4123516fb8bfd1ab0ae8b143b395d7b&scene=0#rd)
+- [Chrome开发者工具的小技巧](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484712&idx=1&sn=8e006fa07b32b878614332977863da4f&chksm=fde8cc65ca9f4573cca123941e7fa96157309a882491ae4714296025bbeccd6d1747cbbe2519&scene=0#rd)
 - [电脑配置环境变量的妙用](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247483899&idx=1&sn=55bd364cdac2b8d67077238bce0245b7&chksm=fde8c8b6ca9f41a051f9462f601b03134f6fdc4852b0fa00a0c4f7182be663c8c09fbfb561e6&scene=0#rd)
 - [你真的会高效的在GitHub搜索开源项目吗?](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484682&idx=1&sn=81d39fc31955822c7471567bab86d666&chksm=fde8cc47ca9f45518035edb00cf694a6e51b0f21d499c4bd48191171576eaaadf9ae29932286&scene=0#rd)
 
