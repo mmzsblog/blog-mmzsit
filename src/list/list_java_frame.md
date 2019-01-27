@@ -1,5 +1,6 @@
 ## J2ee框架
 
+- [需求变化与IoC](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484720&idx=1&sn=2f7106369fd31e3315f39e9b331e850e&chksm=fde8cc7dca9f456b89887f6961d7c284bbe8c8b74ab910ee151af4ca3a3951c7b5a14344914b&scene=0#rd)
 - [一文看懂安全控制框架Apache Shiro](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484273&idx=1&sn=65d8a65e45b900302ad2db87288be6dc&chksm=fde8ca3cca9f432adb050c7873cf319eb3c92ae3cd07ec5a5e94ce2ac91554607097fec4b0a7&scene=0#rd)
 - [mybatis是如何防止SQL注入的](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247483896&idx=1&sn=a69bb0eee0206344edc0d08247c02015&chksm=fde8c8b5ca9f41a3b89d2712fcfadeb3cde9c99afa2f053726b16862bfdade749f6371268887&scene=0#rd)
 - [注解@CrossOrigin解决跨域问题](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247483889&idx=1&sn=75be291bfbe605256cb16de2f79f7e90&chksm=fde8c8bcca9f41aa85f37e402c24e296e2bbd257e13a15bfeb59632a3ed851cf13b0e9f78949&scene=0#rd)

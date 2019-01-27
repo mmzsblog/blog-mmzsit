@@ -7,6 +7,7 @@
 
 ## :coffee:最佳推荐 ##
 - [Java基础精炼](src/best_recommendation/list_java_base.md)
+- [热门推荐](src/best_recommendation/list_hot.md)
 
 ## :page_facing_up: 学习清单 ##
 - [前端](src/list/list_before.md)
