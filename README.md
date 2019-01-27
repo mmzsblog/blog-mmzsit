@@ -29,7 +29,7 @@
 ## :star:其他推荐阅读 ##
 - [毕业季资料](src/graduation.md)
 - [公众号活动](src/activity.md)
-- [其他推荐阅读](src/other.md)
+- [程序员那些事儿](src/other.md)
 
 
 
