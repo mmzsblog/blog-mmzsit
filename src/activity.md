@@ -24,5 +24,6 @@
 
 加我好友，拉你进群，更有超多惊喜等着你哦！
 ![image](./image/mmzsblog.png)
-如下图所示：
+
+**如下图所示：**
 ![image](./image/example.png)
