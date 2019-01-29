@@ -23,6 +23,6 @@
 在该系列题目文章推送结束后，我们将随机抽取一名幸运读者再次赠送一张30元的Q币卡！精彩不容错过哦！<hr>
 
 加我好友，拉你进群，更有超多惊喜等着你哦！
-![image](./image/mmzsblog.jpg)
+![image](./image/mmzsblog.png)
 如下图所示：
-![image](./image/example.jpg)
+![image](./image/example.png)
