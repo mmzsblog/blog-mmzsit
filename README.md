@@ -23,8 +23,9 @@
 
 ## :computer:神器、视频资源 ##
 - [奇思巧技](src/computer/wonderful_skill.md)
-- [开发工具](src/computer/development_tools.md)
 - [视频资源](src/computer/video_resource.md)
+- [开发工具](src/computer/development_tools.md)
+- [开源项目推荐](src/computer/recommend_github_resource.md)
 
 ## :star:其他推荐阅读 ##
 - [毕业季资料](src/graduation.md)
