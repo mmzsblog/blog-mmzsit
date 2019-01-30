@@ -21,7 +21,7 @@
 - [深入浅出数据库知识](src/list/list_java_database.md)
 - [深入理解JVM虚拟机](src/list/list_java_jvm.md)
 
-## :computer:神器、视频资源 ##
+## :computer:神器、视频、资源 ##
 - [奇思巧技](src/computer/wonderful_skill.md)
 - [视频资源](src/computer/video_resource.md)
 - [开发工具](src/computer/development_tools.md)
