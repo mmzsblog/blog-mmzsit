@@ -6,8 +6,8 @@
 ### 2019春节每日一题系列活动
 - [春节每日一题, 玩法介绍](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484811&idx=2&sn=d3b2af4bdcb68ccd4d929fb8b583cf35&chksm=fde8ccc6ca9f45d0f2ac5f2c1f51ec3aacd83520f9776a02bc34145a9bb6fbe96ec9932ca513&scene=0#rd
 )
-- [春节每日一题, 除夕](./)
 - [春节每日一题, 春节](./)
+- [春节每日一题, 初二](./)
 - [春节每日一题, 初三](./)
 - [春节每日一题, 初六](./)
 - [春节每日一题, 初七](./)
