@@ -6,12 +6,13 @@
 ### 2019春节每日一题系列活动
 - [春节每日一题, 玩法介绍](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484811&idx=2&sn=d3b2af4bdcb68ccd4d929fb8b583cf35&chksm=fde8ccc6ca9f45d0f2ac5f2c1f51ec3aacd83520f9776a02bc34145a9bb6fbe96ec9932ca513&scene=0#rd
 )
-- [春节每日一题, 春节](./)
-- [春节每日一题, 初二](./)
-- [春节每日一题, 初三](./)
-- [春节每日一题, 初六](./)
-- [春节每日一题, 初七](./)
-- [春节每日一题, 终结篇](./)
+- [春节每日一题, 春节](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484812&idx=1&sn=080ea8db5ab5ca170332b87570045ae5&chksm=fde8ccc1ca9f45d757af1d2ab298c5651a5b2d8ea5f8861b0a1cdcdd2f347bfbfe1d53347de3&scene=0#rd
+)
+- [春节每日一题, 初二]
+- [春节每日一题, 初三]
+- [春节每日一题, 初六]
+- [春节每日一题, 初七]
+- [春节每日一题, 终结篇]
 
 这里送出四张30元的Q币卡给大家，祝大家新的一年事事顺心！<hr>
 
