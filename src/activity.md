@@ -22,7 +22,7 @@
 ![image](./image/gzh.png)
 在该系列题目文章推送结束后，我们将随机抽取一名幸运读者再次赠送一张30元的Q币卡！精彩不容错过哦！
 
-![image](./Q币卡.jpg)<hr>
+![image](./image/Q币卡.jpg)<hr>
 
 加我好友，拉你进群，更有超多惊喜等着你哦！
 ![image](./image/mmzsblog.png)
