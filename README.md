@@ -28,7 +28,7 @@
 - [开源项目推荐](src/computer/recommend_github_resource.md)
 
 ## :star:其他推荐阅读 ##
-- [毕业季资料](src/graduation.md)
+- [**毕业季资料**](src/graduation.md)
 - [公众号活动](src/activity.md)
 - [程序员那些事儿](src/other.md)
 
