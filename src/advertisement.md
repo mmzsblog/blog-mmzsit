@@ -1,13 +1,16 @@
-### 极客时间优惠
+[toc]
 
-<hr>
+# 极客时间优惠
 
-### 关注公众号，随时了解最新活动：
-![image](./image/gzh.png)
-<hr>
+## 先领红包 
+这是极客时间发放的开工红包，进入极客时间就能领取；如果不知道怎么操作，你可以[点这里](https://promo.geekbang.org/activity/newyear-red-envelope/7pPEI94x6QLtHnx1DBJwt1pVCZX67eFw3_mBijGE530)
+![image](./image/jike/红包.jpg)
 
-加我好友，拉你进群，更有超多惊喜等着你哦！
+## 在选择心仪的课程扫码购买
+![image](./image/jike/Spring全家桶.jpg)
+
+
+
+
+## 加我好友，领取返现
 ![image](./image/mmzsblog.png)
-
-**如下图所示：**
-![image](./image/example.png)
