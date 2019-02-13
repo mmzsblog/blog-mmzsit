@@ -1,4 +1,4 @@
-[toc]
+[markdown-toc]
 
 # 极客时间优惠
 
