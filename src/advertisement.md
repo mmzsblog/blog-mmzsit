@@ -4,7 +4,7 @@
 这是极客时间发放的开工红包，进入极客时间就能领取；如果不知道怎么操作，你可以[点这里](https://promo.geekbang.org/activity/newyear-red-envelope/7pPEI94x6QLtHnx1DBJwt1pVCZX67eFw3_mBijGE530)
 <br>
 
-<img width="540" height="860" src="https://github.com/mmzsblog/blog-mmzsit/blob/master/src/image/jike/红包.jpg">
+<img width="540" height="790" src="https://github.com/mmzsblog/blog-mmzsit/blob/master/src/image/jike/红包.jpg">
 
 
 
@@ -15,7 +15,7 @@
 <hr>
 
 ## 再选择心仪的课程扫码购买
-<img width="621" height="900" src="https://github.com/mmzsblog/blog-mmzsit/blob/master/src/image/jike/Spring全家桶.jpg">
+<img width="621" height="800" src="https://github.com/mmzsblog/blog-mmzsit/blob/master/src/image/jike/Spring全家桶.jpg">
 
 
 
