@@ -1,8 +1,8 @@
 ### 送书活动
-- [[回馈粉丝第一弹]：送书伊始](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484557&idx=1&sn=fa436ab955a772884365ede8a5642e52&chksm=fde8cdc0ca9f44d6860a0d66ccccad070d7b0c3c8f393f05c6b4847e90bb318ec56fe31c3649&scene=0#rd)
-- [[回馈粉丝第二弹]：技术书籍送! 送!! 送！！！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484557&idx=1&sn=fa436ab955a772884365ede8a5642e52&chksm=fde8cdc0ca9f44d6860a0d66ccccad070d7b0c3c8f393f05c6b4847e90bb318ec56fe31c3649&scene=0#rd)
+- [[送书第一弹]：送书伊始](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484557&idx=1&sn=fa436ab955a772884365ede8a5642e52&chksm=fde8cdc0ca9f44d6860a0d66ccccad070d7b0c3c8f393f05c6b4847e90bb318ec56fe31c3649&scene=0#rd)
+- [[送书第二弹]：技术书籍送! 送!! 送！！！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484557&idx=1&sn=fa436ab955a772884365ede8a5642e52&chksm=fde8cdc0ca9f44d6860a0d66ccccad070d7b0c3c8f393f05c6b4847e90bb318ec56fe31c3649&scene=0#rd)
 - [2019，新年快乐](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484645&idx=1&sn=f63ad7a3bf3086f56619e2434c349156&chksm=fde8cda8ca9f44bebe0c05d64f0219c05c159454c5684fccb734005ef04e1c988273f5b9f09e&scene=0#rd)
-
+- [[送书第三弹]：自费送书！13本！求替我领回家！!]()
 ### 2019春节每日一题系列活动
 - [春节每日一题, 玩法介绍](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484811&idx=2&sn=d3b2af4bdcb68ccd4d929fb8b583cf35&chksm=fde8ccc6ca9f45d0f2ac5f2c1f51ec3aacd83520f9776a02bc34145a9bb6fbe96ec9932ca513&scene=0#rd)
 - [春节每日一题, 春节](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484812&idx=1&sn=080ea8db5ab5ca170332b87570045ae5&chksm=fde8ccc1ca9f45d757af1d2ab298c5651a5b2d8ea5f8861b0a1cdcdd2f347bfbfe1d53347de3&scene=0#rd)
@@ -14,7 +14,7 @@
 - [终结篇答案：]
 
 <hr>
-
+english
 ### 关注公众号，随时了解最新活动：
 ![image](./image/gzh.png)
 <hr>

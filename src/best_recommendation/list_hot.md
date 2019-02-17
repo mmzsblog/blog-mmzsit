@@ -2,6 +2,7 @@
 
 - [你真的会高效的在GitHub搜索开源项目吗?](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484682&idx=1&sn=81d39fc31955822c7471567bab86d666&chksm=fde8cc47ca9f45518035edb00cf694a6e51b0f21d499c4bd48191171576eaaadf9ae29932286&scene=0#rd)
 - [当你在浏览器中输入“google.com”并回车，会发生什么？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484811&idx=1&sn=e0e891ec6cd702d5743aa276ff4d8ae8&chksm=fde8ccc6ca9f45d044e640f7c9b420f2a7f04cebec706a004d536c74a643e0da8b5b349334e8&scene=0#rd)
+- [Python一键转Java？“谷歌翻译”你别闹（附链接）](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484844&idx=1&sn=630bb6ce05fcb582d4086fae4e20f9c0&chksm=fde8cce1ca9f45f73227f514eeeb430bcd2a6749ae276e070a0899bbc55268838d4da08b5b5f&scene=0#rd)
 
 - [平时的你VS面试的你](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484699&idx=1&sn=f163eea34a9713efeea9ab5610d5fd83&chksm=fde8cc56ca9f4540fa7ee533825c0c0665cb781ec865edff87c686733fb117351360073e1eea&scene=0#rd)
 - [程序员那些悲催的事儿](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484721&idx=1&sn=4b6538003941ee3b4d0a447674a83f61&chksm=fde8cc7cca9f456a7fe3668d5dedc0f812d5b883b13b17ea8d1b49eaa47cf5cd90eb90e023d6&scene=0#rd)
