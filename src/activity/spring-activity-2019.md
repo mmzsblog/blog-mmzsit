@@ -12,11 +12,11 @@
 <hr>
 
 ### 关注公众号，随时了解最新活动：
-![image](src/image/gzh.png)
+![image](https://github.com/mmzsblog/blog-mmzsit/blob/master/src/image/gzh.png)
 <hr>
 
 加我好友，拉你进群，更有超多惊喜等着你哦！
-![image](src/image/mmzsblog.png)
+![image](https://github.com/mmzsblog/blog-mmzsit/blob/master/src/image/mmzsblog.png)
 
 **如下图所示：**
-![image](src/image/example.png)
+![image](https://github.com/mmzsblog/blog-mmzsit/blob/master/src/image/example.png)
