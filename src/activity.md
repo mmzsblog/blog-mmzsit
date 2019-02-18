@@ -5,8 +5,8 @@
 
 ### 其他福利活动
 - [2019，新年快乐](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484645&idx=1&sn=f63ad7a3bf3086f56619e2434c349156&chksm=fde8cda8ca9f44bebe0c05d64f0219c05c159454c5684fccb734005ef04e1c988273f5b9f09e&scene=0#rd)
-- [2019，春节每日一题系列活动](src/activity/spring-activity-2019.md)
-- [**极客时间课程优惠购活动（长期有效）**](src/advertisement.md)
+- [2019，春节每日一题系列活动](https://github.com/mmzsblog/blog-mmzsit/blob/master/src/activity/spring-activity-2019.md)
+- [**极客时间课程优惠购活动（长期有效）**](https://github.com/mmzsblog/blog-mmzsit/blob/master/src/advertisement.md)
 
 
 <hr>
