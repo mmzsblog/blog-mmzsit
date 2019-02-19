@@ -26,13 +26,14 @@
 - [视频资源](src/computer/video_resource.md)
 - [开发工具](src/computer/development_tools.md)
 - [**开源项目推荐**](src/computer/recommend_github_resource.md)
+- [**私家珍藏的精选好书**](https://github.com/mmzsblog/blog-mmzsit/tree/master/Recommend_Books)
 
 ## :star:其他推荐阅读 ##
 - [毕业季资料](src/graduation.md)
 - [**公众号送福利活动**](src/activity.md)
 - [程序员那些事儿](src/other.md)
 
-
+<br>
 
 ## 如何感觉博主讲的还不错： 
  名 称 | 简 介
