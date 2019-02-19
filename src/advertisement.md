@@ -30,6 +30,8 @@
 ![image](./image/jike/玩转Spring全家桶.jpg)
 ![image](./image/jike/微服务实战.jpg)
 ![image](./image/jike/10x程序员工作法.jpg)
+![image](./image/jike/软件工程之美.jpg)
+
 
 
 
