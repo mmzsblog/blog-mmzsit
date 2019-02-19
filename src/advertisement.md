@@ -2,11 +2,11 @@
 **优惠购课攻略一共三步，耐心看完，你将发现课程价格优惠到你不敢想象！！！**
 <br>
 
-## 第一步：先领红包 
-这是极客时间发放的开工红包，进入极客时间就能领取；如果不知道怎么操作，你可以[点这里](https://promo.geekbang.org/activity/newyear-red-envelope/7pPEI94x6QLtHnx1DBJwt1pVCZX67eFw3_mBijGE530)
+## 第一步：如果你是新注册用户
+先领30元的新人优惠券，再看第二步；
+如果不是新人，可以直接跳过这步，进入下一步 
 <br>
 
-![image](./image/jike/红包.jpg)
 
 
 
