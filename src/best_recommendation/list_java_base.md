@@ -10,7 +10,7 @@
 - 07、[Byte和各数据类型之间的转换](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484132&idx=2&sn=f61f08088a5ff9a5585b5d67fcf10516&chksm=fde8cba9ca9f42bf752eb2ff4c47898b21ea1790a0989d236976b2e5d7d10d5642e471f6becb&scene=0#rd)
 - 08、[JAVA枚举高级应用篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484561&idx=2&sn=04a51ed0479c4c482921414ee92d2839&chksm=fde8cddcca9f44ca5f291c5b8aa5c530482c0328946f2e4952827c540bbedcc76c790addf91d&scene=0#rd)
 - 09、[Thread Pool](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484287&idx=1&sn=d5cfa916f3c301ac76202b7a790993d7&chksm=fde8ca32ca9f4324caa952378eaf2739c3b778073979f327ebef383a0f5f68c2be715c991cf3&scene=0#rd)
-- 10、[利用策略模式优化过多 if else 代码](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484863&idx=1&sn=5e32da7a6276ce721b2a306cfbc6d2a7&chksm=fde8ccf2ca9f45e453062426707911e9de27046872607ca5897e21bd9186674deaa78c09c444&scene=0#rd)
+- 10、[待续]()
 - 11、[待续]()
 - 12、[]()
 - 13、[]()
