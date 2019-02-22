@@ -6,11 +6,13 @@
 > 你的支持将成为我做公众号的最大动力
 
 ## :coffee:最佳推荐 ##
-- [Java基础精炼](src/best_recommendation/list_java_base.md)
 - [热门推荐](src/best_recommendation/list_hot.md)
+- [Spring系列](src/list/list_spring.md)
+- [Java基础精炼](src/best_recommendation/list_java_base.md)
 
 ## :page_facing_up: 学习清单 ##
 - [前端](src/list/list_before.md)
+- [Spring系列](src/list/list_spring.md)
 - [微服务](src/list/list_java_microservice.md)
 - [大数据](src/list/list_bigdata.md)
 - [设计模式](src/list/list_design_patterns.md)
