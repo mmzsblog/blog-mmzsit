@@ -12,7 +12,7 @@
 
 ## :page_facing_up: 学习清单 ##
 - [前端](src/list/list_before.md)
-- [Spring系列](src/list/list_spring.md)
+- [Spring](src/list/list_spring.md)
 - [微服务](src/list/list_java_microservice.md)
 - [大数据](src/list/list_bigdata.md)
 - [设计模式](src/list/list_design_patterns.md)
