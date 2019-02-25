@@ -1,4 +1,5 @@
 ### 关注公众号，随时了解最新活动：
+<hr>
 ![image](https://github.com/mmzsblog/blog-mmzsit/blob/master/src/image/gzh.png)
 <hr>
 
@@ -8,7 +9,7 @@
 
 
 ### 中奖名单公布: 
-
+<hr>
 - [[送书第一弹]：送书伊始《数据挖掘》](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484557&idx=1&sn=fa436ab955a772884365ede8a5642e52&chksm=fde8cdc0ca9f44d6860a0d66ccccad070d7b0c3c8f393f05c6b4847e90bb318ec56fe31c3649&scene=0#rd)<br>
 ![第一弹中将图片](https://github.com/mmzsblog/blog-mmzsit/blob/master/src/image/winners/1.png)
 
