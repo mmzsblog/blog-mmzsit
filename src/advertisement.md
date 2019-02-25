@@ -17,6 +17,7 @@
 <hr>
 
 ## 第二步：再选择心仪的课程扫码购买
+![image](./image/jike/JAVA并发编程实战.jpg)
 ![image](./image/jike/面试现场.jpg)
 ![image](./image/jike/算法面试通关.jpg)
 ![image](./image/jike/数据结构与算法之美.jpg)
