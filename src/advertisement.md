@@ -4,6 +4,8 @@
 
 ## 第一步：如果你是新注册用户
 先领30元的新人优惠券，再看第二步；
+优惠券领取地址：[戳这里](https://time.geekbang.org/activity/getinvite?gk_ucode=0BF856BA0EF8A6)
+<br>
 如果不是新人，可以直接跳过这步，进入下一步 
 <br>
 
