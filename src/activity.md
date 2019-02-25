@@ -1,5 +1,5 @@
 ## 送书活动
-- **中奖名单公布**: [戳这里](https://github.com/mmzsblog/blog-mmzsit/blob/master/src/activity/winners_list.md))
+- **中奖名单公布**: [戳这里](https://github.com/mmzsblog/blog-mmzsit/blob/master/src/activity/winners_list.md)
 <br>
 
 - [私家珍藏的精选电子书](https://github.com/mmzsblog/blog-mmzsit/tree/master/Recommend_Books)
