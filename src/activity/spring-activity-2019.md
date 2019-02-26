@@ -7,7 +7,7 @@
 - [春节每日一题, 初六](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484820&idx=1&sn=d94c1daa23c49954dd253e681eeb99fa&chksm=fde8ccd9ca9f45cfd21dbce0316ceb0f223a963a901214c4927535b17612e901b5f2abdaa4e7&scene=0#rd)
 - [春节每日一题, 初七](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484821&idx=1&sn=125544c66a3f075f0fc366c5ebe1c248&chksm=fde8ccd8ca9f45ce71f3a47d8ffc1896ebac94ab6672e3d3db6946025ab1c2a2fa6460b6c451&scene=0#rd)
 - [春节每日一题, 终结篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484822&idx=1&sn=9728497b2f0bbc4abdb8e515ea133341&chksm=fde8ccdbca9f45cd43b04c57ec142247ff89ca34aa8438899dab2f05e168f1f34b5b71f068c5&scene=0#rd)
-- [终结篇答案：]
+- [终结篇答案：10对括号能组成多少种合法的括号串？](https://mp.weixin.qq.com/s/DbfZuOPxIsFE_RHfAP9Unw)
 
 <hr>
 
