@@ -9,8 +9,9 @@
 
 ## :coffee:最佳推荐 ##
 - [热门推荐](src/best_recommendation/list_hot.md)
-- [Spring系列](src/list/list_spring.md)
 - [Java基础精炼](src/best_recommendation/list_java_base.md)
+- [Spring系列](src/list/list_spring.md)
+- [SpringBoot系列](src/list/list_springboot.md)
 
 ## :page_facing_up: 学习清单 ##
 - [前端](src/list/list_before.md)
