@@ -13,16 +13,16 @@
 - [Spring系列](src/list/list_spring.md)
 - [SpringBoot系列](src/list/list_springboot.md)
 
+
 ## :page_facing_up: 学习清单 ##
-- [前端](src/list/list_before.md)
-- [微服务](src/list/list_java_microservice.md)
-- [大数据](src/list/list_bigdata.md)
-- [设计模式](src/list/list_design_patterns.md)
-- [J2ee框架](src/list/list_java_frame.md)
-- [Python爬虫](src/list/list_python_spider.md)
-- [算法与数据结构](src/list/list_java_algorithm_datastructure.md)
-- [深入浅出数据库知识](src/list/list_java_database.md)
-- [深入理解JVM虚拟机](src/list/list_java_jvm.md)
+ 名 称 | 名 称
+---|---
+[前端](src/list/list_before.md) | [Java基础精炼](src/best_recommendation/list_java_base.md)
+[算法与数据结构](src/list/list_java_algorithm_datastructure.md | [深入浅出数据库知识](src/list/list_java_database.md)
+[设计模式](src/list/list_design_patterns.md) | [深入理解JVM虚拟机](src/list/list_java_jvm.md)
+[J2ee框架](src/list/list_java_frame.md) | [微服务](src/list/list_java_microservice.md)
+[Python爬虫](src/list/list_python_spider.md) | [大数据](src/list/list_bigdata.md)
+
 
 ## :computer:神器、视频、资源 ##
 - [**奇思巧技**](src/computer/wonderful_skill.md)
@@ -30,6 +30,7 @@
 - [开发工具](src/computer/development_tools.md)
 - [**开源项目推荐**](src/computer/recommend_github_resource.md)
 - [**私家珍藏的精选好书**](https://github.com/mmzsblog/blog-mmzsit/tree/master/Recommend_Books)
+
 
 ## :star:其他推荐阅读 ##
 - [毕业季资料](src/graduation.md)
