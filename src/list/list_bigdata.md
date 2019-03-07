@@ -5,7 +5,7 @@
 
 ### Hadoop
 待更新,可先浏览我博客园的文章
--[Hadoop系列](http://www.cnblogs.com/mmzs/category/1130381.html)
+- [Hadoop系列](http://www.cnblogs.com/mmzs/category/1130381.html)
 
 
 ### Spark
