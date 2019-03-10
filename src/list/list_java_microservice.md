@@ -6,7 +6,7 @@
 - [微服务架构之服务降级](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484673&idx=2&sn=0399862fa794895f095569b3971811d0&chksm=fde8cc4cca9f455a8c071c146d2dab9b89de3e3a90e2b8c77f2f8d113d6b9e01d19ec0d04cb5&scene=0#rd)
 
 ## SpringBoot
-- [SpringBoot系列](src/list/list_springboot.md)
+- [SpringBoot系列](https://github.com/mmzsblog/blog-mmzsit/blob/master/src/list/list_springboot.md)
 
 ## SpringCloud
 待更新,可先浏览我博客的文章
