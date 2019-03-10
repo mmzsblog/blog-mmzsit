@@ -24,7 +24,7 @@
 
 
 ## :computer:神器、视频、资源 ##
-[视频资源](src/computer/video_resource.md)
+[**视频资源**](src/computer/video_resource.md)|
 ---|
 [**奇思巧技**](src/computer/wonderful_skill.md)|
 [开发工具](src/computer/development_tools.md)|
@@ -33,7 +33,7 @@
 
 
 ## :star:其他推荐阅读 ##
-[**公众号送福利活动**](src/activity.md)
+[**公众号送福利活动**](src/activity.md)|
 ---|
 [毕业季资料](src/graduation.md)
 [程序员那些事儿](src/other.md)
