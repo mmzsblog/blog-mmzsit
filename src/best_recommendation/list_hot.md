@@ -4,6 +4,7 @@
 - [当你在浏览器中输入“google.com”并回车，会发生什么？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484811&idx=1&sn=e0e891ec6cd702d5743aa276ff4d8ae8&chksm=fde8ccc6ca9f45d044e640f7c9b420f2a7f04cebec706a004d536c74a643e0da8b5b349334e8&scene=0#rd)
 - [Python一键转Java？“谷歌翻译”你别闹（附链接）](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484844&idx=1&sn=630bb6ce05fcb582d4086fae4e20f9c0&chksm=fde8cce1ca9f45f73227f514eeeb430bcd2a6749ae276e070a0899bbc55268838d4da08b5b5f&scene=0#rd)
 - [Java性能优化的50个细节（珍藏版）](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485013&idx=1&sn=4b1e11c2750326c0ba543f6d2df7c6f5&chksm=fde8cf18ca9f460eae48b030d22b2a28c8e95f08b6d82db12418524f639e0daf1d02f8f30e28&scene=0#rd)
+- [按这些知识点来全面快速复习Java面试题](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485040&idx=1&sn=192f9dfacb74725e9485bba440f027f4&chksm=fde8cf3dca9f462bd39c3f1df1995418e006e6b72def752064a2278ccb08c4f97eef187edfff&scene=0#rd)
 <br>
 
 
