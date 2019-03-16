@@ -5,5 +5,7 @@
 - [Spring之5种Bean Scope](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484876&idx=2&sn=c21658d9b0c5b8e3fcb05161ed195f7e&chksm=fde8cc81ca9f45976aeb413a17f42c8a0048af4660855e5086dd0a8a51a1c091efea9000dbb3&scene=0#rd)
 
 
+- [【面试专场】如何在面试别人Spring事务时“套路”对方的](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485059&idx=1&sn=469edc1e4abe780130234f707f20b042&chksm=fde8cfceca9f46d8afd3b54ee0009270945625682e00182595f90e2420c305771bcc6c776fca&scene=0#rd)
+
 - [待更新]
 
