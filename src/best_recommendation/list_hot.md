@@ -2,12 +2,14 @@
 
 - [你真的会高效的在GitHub搜索开源项目吗?](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484682&idx=1&sn=81d39fc31955822c7471567bab86d666&chksm=fde8cc47ca9f45518035edb00cf694a6e51b0f21d499c4bd48191171576eaaadf9ae29932286&scene=0#rd)
 - [当你在浏览器中输入“google.com”并回车，会发生什么？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484811&idx=1&sn=e0e891ec6cd702d5743aa276ff4d8ae8&chksm=fde8ccc6ca9f45d044e640f7c9b420f2a7f04cebec706a004d536c74a643e0da8b5b349334e8&scene=0#rd)
-- [Python一键转Java？“谷歌翻译”你别闹（附链接）](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484844&idx=1&sn=630bb6ce05fcb582d4086fae4e20f9c0&chksm=fde8cce1ca9f45f73227f514eeeb430bcd2a6749ae276e070a0899bbc55268838d4da08b5b5f&scene=0#rd)
+- [程序员必备技能：如何画好架构图？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485065&idx=2&sn=2eabd3d3943c6909a30690c974740beb&chksm=fde8cfc4ca9f46d2b032284c72b0c0f070d82d764fa3a26ca5edbbb68e95d7790988080fd0f4&scene=0#rd)
 - [Java性能优化的50个细节（珍藏版）](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485013&idx=1&sn=4b1e11c2750326c0ba543f6d2df7c6f5&chksm=fde8cf18ca9f460eae48b030d22b2a28c8e95f08b6d82db12418524f639e0daf1d02f8f30e28&scene=0#rd)
 - [按这些知识点来全面快速复习Java面试题](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485040&idx=1&sn=192f9dfacb74725e9485bba440f027f4&chksm=fde8cf3dca9f462bd39c3f1df1995418e006e6b72def752064a2278ccb08c4f97eef187edfff&scene=0#rd)
+- [一道简单的 Java 笔试题，但值得很多人反思！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485067&idx=1&sn=359fa5f0098f95de1998dcf6774fca7b&chksm=fde8cfc6ca9f46d01ba03a7cc0e8c66f624c33d658cea74ba12965e05449ec4b96ce71be7266&scene=0#rd)
 <br>
 
 
+- [Python一键转Java？“谷歌翻译”你别闹（附链接）](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484844&idx=1&sn=630bb6ce05fcb582d4086fae4e20f9c0&chksm=fde8cce1ca9f45f73227f514eeeb430bcd2a6749ae276e070a0899bbc55268838d4da08b5b5f&scene=0#rd)
 - [平时的你VS面试的你](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484699&idx=1&sn=f163eea34a9713efeea9ab5610d5fd83&chksm=fde8cc56ca9f4540fa7ee533825c0c0665cb781ec865edff87c686733fb117351360073e1eea&scene=0#rd)
 - [程序员那些悲催的事儿](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484721&idx=1&sn=4b6538003941ee3b4d0a447674a83f61&chksm=fde8cc7cca9f456a7fe3668d5dedc0f812d5b883b13b17ea8d1b49eaa47cf5cd90eb90e023d6&scene=0#rd)
 - [现实的抖音世界](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484841&idx=1&sn=a624a31ef643e60ae9b767f670cb1afd&chksm=fde8cce4ca9f45f29006489d3be1f7b33ba05948251825b27c7648e4bb4312252c547124392e&scene=0#rd)
