@@ -6,9 +6,10 @@
 <br>
 
 - [私家珍藏的精选电子书](https://github.com/mmzsblog/blog-mmzsit/tree/master/Recommend_Books)
-- [[送书第一弹]：送书伊始《数据挖掘》](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484557&idx=1&sn=fa436ab955a772884365ede8a5642e52&chksm=fde8cdc0ca9f44d6860a0d66ccccad070d7b0c3c8f393f05c6b4847e90bb318ec56fe31c3649&scene=0#rd)
-- [[送书第二弹]：10本技术书籍送! 送!! 送！！！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484557&idx=1&sn=fa436ab955a772884365ede8a5642e52&chksm=fde8cdc0ca9f44d6860a0d66ccccad070d7b0c3c8f393f05c6b4847e90bb318ec56fe31c3649&scene=0#rd)
-- [[送书第三弹]：自费送书！13本！求替我领回家！!](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484854&idx=1&sn=95541a5729952b1205fe3914cd53353d&chksm=fde8ccfbca9f45ed69293a932c98d07d0447e441e69f214563df5312600381446c294f1f7946&scene=0#rd)
+- [[第一话]：送书伊始《数据挖掘》](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484557&idx=1&sn=fa436ab955a772884365ede8a5642e52&chksm=fde8cdc0ca9f44d6860a0d66ccccad070d7b0c3c8f393f05c6b4847e90bb318ec56fe31c3649&scene=0#rd)
+- [[第二话]：10本技术书籍送! 送!! 送！！！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484557&idx=1&sn=fa436ab955a772884365ede8a5642e52&chksm=fde8cdc0ca9f44d6860a0d66ccccad070d7b0c3c8f393f05c6b4847e90bb318ec56fe31c3649&scene=0#rd)
+- [[第三话]：自费送书！13本！求替我领回家！!](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484854&idx=1&sn=95541a5729952b1205fe3914cd53353d&chksm=fde8ccfbca9f45ed69293a932c98d07d0447e441e69f214563df5312600381446c294f1f7946&scene=0#rd)
+- [[第四话]：送书《程序员炼成记》](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485074&idx=1&sn=1b6264972236f79d1fd9f7d3bc3cad61&chksm=fde8cfdfca9f46c98b1669269e673160650a89f9633dd51fc52c8234398c979e4afb65dc37d2&scene=0#rd)
 <br>
 
 
