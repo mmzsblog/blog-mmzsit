@@ -22,22 +22,20 @@
 ![image](./image/jike/趣谈Linux操作系统.jpg)
 ![image](./image/jike/Vue开发实战.jpg)
 ![image](./image/jike/JAVA并发编程实战.jpg)
-![image](./image/jike/面试现场.jpg)
-![image](./image/jike/算法面试通关.jpg)
-![image](./image/jike/数据结构与算法之美.jpg)
-![image](./image/jike/左耳听风.jpg)
 ![image](./image/jike/趣谈网络协议.jpg)
 ![image](./image/jike/linux性能优化实战.jpg)
 ![image](./image/jike/Nginx核心知识.jpg)
 ![image](./image/jike/从0开始学架构.jpg)
 ![image](./image/jike/邱岳的产品实战.jpg)
 ![image](./image/jike/数据分析实战.jpg)
-![image](./image/jike/玩转Spring全家桶.jpg)
 ![image](./image/jike/微服务实战.jpg)
 ![image](./image/jike/10x程序员工作法.jpg)
 ![image](./image/jike/软件工程之美.jpg)
-
-
+![image](./image/jike/数据结构与算法之美.jpg)
+![image](./image/jike/算法面试通关.jpg)
+![image](./image/jike/面试现场.jpg)
+![image](./image/jike/玩转Spring全家桶.jpg)
+![image](./image/jike/左耳听风.jpg)
 
 
 
