@@ -44,8 +44,8 @@
 ## 如何感觉博主讲的还不错： 
  名 称 | 简 介
 ---|---
-☞[JavaQQ群：603654340](//shang.qq.com/wpa/qunwpa?idkey=71137b9909c5ecb71893fe84621dad6fe059569f900b74ed8658cf21e5ba6747) | Java技术交流，答疑解惑聊闲的最佳选择;还能互帮下载CSDN资源
-☞[大数据Q群：217770236](//shang.qq.com/wpa/qunwpa?idkey=d39c67d5a9ec78096c0c6981a1bd0e72ef75892c55183e9322da73d48530740c) | 大数据学习交流群，相互探讨学习交流
+☞[Java进阶QQ群：603654340](//shang.qq.com/wpa/qunwpa?idkey=71137b9909c5ecb71893fe84621dad6fe059569f900b74ed8658cf21e5ba6747) | Java技术交流，答疑解惑聊闲的最佳选择；还能互帮下载CSDN资源
+☞[大数据交流QQ群：217770236](//shang.qq.com/wpa/qunwpa?idkey=d39c67d5a9ec78096c0c6981a1bd0e72ef75892c55183e9322da73d48530740c) | 大数据学习交流群，相互探讨学习交流
 ![微信二维码](https://blog.mmzsblog.cn/images/weChat.jpg) | 微信公众号：**Java学习之道**；进入公众号后台回复"**666**"送你一份学习资料
 
 
