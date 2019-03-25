@@ -1,1 +1,0 @@
-Copyright &copy; Craig Walls

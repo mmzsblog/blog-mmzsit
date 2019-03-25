@@ -19,6 +19,8 @@
 <hr>
 
 ## 第二步：再选择心仪的课程扫码购买
+![image](./image/jike/趣谈Linux操作系统.jpg)
+![image](./image/jike/Vue开发实战.jpg)
 ![image](./image/jike/JAVA并发编程实战.jpg)
 ![image](./image/jike/面试现场.jpg)
 ![image](./image/jike/算法面试通关.jpg)
