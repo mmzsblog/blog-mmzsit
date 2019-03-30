@@ -10,10 +10,10 @@
 - [程序员那些悲催的事儿](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484721&idx=1&sn=4b6538003941ee3b4d0a447674a83f61&chksm=fde8cc7cca9f456a7fe3668d5dedc0f812d5b883b13b17ea8d1b49eaa47cf5cd90eb90e023d6&scene=0#rd)
 <br>
 
-
+- [互联网公司千万不能迷信！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485146&idx=1&sn=a454cf184fa6520f427adff963d6ce3b&chksm=fde8cf97ca9f46815171b69c619abcc19f4a98684068924ad1d9316d0a915a92db848cd41289&scene=0#rd)
+- [程序员周末时尚穿搭指南](https://mp.weixin.qq.com/s/vuc2TzbNn3a0KA3ErREcWw)
 - [我是如何渡过的春节假期的](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484814&idx=2&sn=74cabd5f5c74d72c0c72db3981a9d670&chksm=fde8ccc3ca9f45d5bffc8a23e6aa76e20d3fbbe78008add3a04e7993d5b67ad62e4e8e4505e6&scene=0#rd)
 - [漫画：程序员的春节](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484819&idx=1&sn=c37b67a931334587a61ed98ecfdee67e&chksm=fde8ccdeca9f45c81c2aa49d2be144191da9971ee686c19e6f3499b2fcfaa1dc5d5042de2746&scene=0#rd)
-- [程序员周末时尚穿搭指南](https://mp.weixin.qq.com/s/vuc2TzbNn3a0KA3ErREcWw)
 <br>
 
 
