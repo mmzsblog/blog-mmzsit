@@ -28,10 +28,8 @@
 ## :computer:神器、视频、资源 ##
 [**私家珍藏的精选好书**](https://github.com/mmzsblog/blog-mmzsit/tree/master/Recommend_Books)|
 ---|
-[**视频资源**](src/computer/video_resource.md)|
-[**奇思巧技**](src/computer/wonderful_skill.md)|
-[开发工具](src/computer/development_tools.md)|
-[**开源项目推荐**](src/computer/recommend_github_resource.md)|
+[**视频资源**](src/computer/video_resource.md) | [开发工具](src/computer/development_tools.md)
+[**奇思巧技**](src/computer/wonderful_skill.md)| [**开源项目推荐**](src/computer/recommend_github_resource.md)|
 
 
 ## :star:其他推荐阅读 ##
