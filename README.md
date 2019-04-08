@@ -12,6 +12,7 @@
 - [Java基础精炼](src/best_recommendation/list_java_base.md)
 - [Spring系列](src/list/list_spring.md)
 - [SpringBoot系列](src/list/list_springboot.md)
+- [面试现场系列](src/best_recommendation/list_hot_interview.md)
 
 
 ## :page_facing_up: 学习清单 ##
@@ -31,7 +32,6 @@
 [**奇思巧技**](src/computer/wonderful_skill.md)|
 [开发工具](src/computer/development_tools.md)|
 [**开源项目推荐**](src/computer/recommend_github_resource.md)|
-
 
 
 ## :star:其他推荐阅读 ##
