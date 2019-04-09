@@ -10,7 +10,7 @@
 - 07、[Byte和各数据类型之间的转换](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484132&idx=2&sn=f61f08088a5ff9a5585b5d67fcf10516&chksm=fde8cba9ca9f42bf752eb2ff4c47898b21ea1790a0989d236976b2e5d7d10d5642e471f6becb&scene=0#rd)
 - 08、[JAVA枚举高级应用篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484561&idx=2&sn=04a51ed0479c4c482921414ee92d2839&chksm=fde8cddcca9f44ca5f291c5b8aa5c530482c0328946f2e4952827c540bbedcc76c790addf91d&scene=0#rd)
 - 09、[Thread Pool](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484287&idx=1&sn=d5cfa916f3c301ac76202b7a790993d7&chksm=fde8ca32ca9f4324caa952378eaf2739c3b778073979f327ebef383a0f5f68c2be715c991cf3&scene=0#rd)
-- 10、[待续]()
+- 10、[Java集合总结(Collection)](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485192&idx=1&sn=2b84ee40f37ed0c1cec346ea074385d7&chksm=fde8ce45ca9f4753299f92ac07335e98b277af0a47816269b5621e3230900485b8ddfa827768&scene=0#rd)
 - 11、[待续]()
 - 12、[]()
 - 13、[]()
