@@ -12,6 +12,8 @@
 - [玩转springboot2.x之整合丝袜哥(swagger)篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485146&idx=2&sn=3676d6559e269b508fb5980b7a3c2717&chksm=fde8cf97ca9f4681b6657ce881b936df5ff613fe3757459a9ea36033b4b151b9acf7b24ceaab&scene=0#rd)
 - [玩转springboot2.x之整合webSocket篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485170&idx=2&sn=ab9d829ee9eef451bc5b11eb0fa99bac&chksm=fde8cfbfca9f46a90a5cc1cffc8c26c13bf1e9c2f30c4b73e510d3c1b9618d36ef648818809b&scene=0#rd)
 - [玩转springboot2.x之搭建Actuator和spring boot admin监控篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485185&idx=2&sn=ea5926635baf65f8c89d1758660b9092&chksm=fde8ce4cca9f475a0ec4569b066335a765f1b82490657bc5fbd1468b3dfecca99541830985cf&scene=0#rd)
+- [玩转springboot2.x之使用SpringDateJpa篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485253&idx=2&sn=ca3193092a24ef110799b1c8f441bfb0&chksm=fde8ce08ca9f471e673305ebe04235e2b953e14e04d1b0799f12656ce51284a37f50754775a7&scene=0#rd)
+
 
 - [玩转SpringBoot之定时任务详解](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484612&idx=1&sn=d9c2ca10bde950ef2a3c317ecd48a2c4&chksm=fde8cd89ca9f449ff23a5b158ec8fc73d2c76f70f478a3370795c710e2d7ca8d596e4fc021c1&scene=0#rd)
 - [SpringBoot最流行的16条最佳实践解读！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485121&idx=1&sn=7f8d4a2b367a761987c50ed5a2ff0b8d&chksm=fde8cf8cca9f469aa9dd24858ba6d920b7450fac51032ec8ea1eaa9e36d97f2c19f3d9bd764a&scene=0#rd)
