@@ -14,7 +14,7 @@
 文章：[【面试现场】为什么要分稳定排序和非稳定排序？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485253&idx=3&sn=6a736f34b5d487f2247f2eead9f252ca&chksm=fde8ce08ca9f471e90d1dcd06745d50259e1c8e33bdff922ef887c01abcd9554148987195c68&scene=0#rd)
 
 - 四、经典搜索算法，回溯与剪枝讲解，深搜的实现及注意点，广搜的实现及注意点，深搜和广搜的使用场景解析。<br>
-文章：[【面试现场】如何编程解决华容道问题？]()
+文章：[【面试现场】如何编程解决华容道问题？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485266&idx=2&sn=576a2d1a4750495f304e4040bdb2e068&chksm=fde8ce1fca9f47095f6e774bbe5af7577fefb44e33026c67d49339e339ba7d5ee08d6dbfb2db&scene=0#rd)
 
 - 五、经典面试题回文串的处理技巧，中心扩展算法，马拉车算法讲解，时间空间分析。<br>
 文章：[【面试现场】如何找到字符串中的最长回文子串？]()
