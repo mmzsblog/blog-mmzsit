@@ -6,17 +6,14 @@
 - 先领30元的新人优惠券，再看第二步；<br>
 优惠券领取地址：[戳这里](https://time.geekbang.org/activity/getinvite?gk_ucode=0BF856BA0EF8A6)
 
-- 如果你是老用户了，是不是的还能收到极客时间派发的惊喜哦！<br>
+- 如果你是老用户了，几乎每次都能收到极客时间派发"专栏上新特惠礼券"的惊喜哦！<br>
 ![image](./image/上新特惠.png)
-
-- 最近极客时间的派发红包活动不知道你想不想来凑个热闹呢？<br>
-最近极客时间还有“助力红包”领取，让购课更实惠；不知道怎么领取的，点击该链接[http://gk.link/a/102V0](http://gk.link/a/102V0)
-![image](./image/助力红包.png)
 
 <br><br>
 <hr>
 
 ## 第二步：再选择心仪的课程扫码购买
+![image](./image/jike/Python核心技术与实战.jpg)
 ![image](./image/jike/许式伟的架构课.jpg)
 ![image](./image/jike/趣谈Linux操作系统.jpg)
 ![image](./image/jike/Vue开发实战.jpg)
