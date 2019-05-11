@@ -11,7 +11,7 @@
 - [玩转springboot2.x之restful api开发篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485013&idx=3&sn=13bc99558cb3d445a46ac31f6f993913&chksm=fde8cf18ca9f460e7398d2f634fd0a68c883c2463358390b6f1cf0a681066004395c09d18130&scene=0#rd)
 - [玩转springboot2.x之使用SpringDateJpa篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485253&idx=2&sn=ca3193092a24ef110799b1c8f441bfb0&chksm=fde8ce08ca9f471e673305ebe04235e2b953e14e04d1b0799f12656ce51284a37f50754775a7&scene=0#rd)
 - [玩转springboot2.x之自定义Filter过滤器篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485265&idx=2&sn=ad740a0da702918c6a6b950e371f95c4&chksm=fde8ce1cca9f470a83f06bda2364eb9a97529c27c8fb764036313f7c0d44f9062fe79b3d3cbf&scene=0#rd)
-[玩转springboot2.x之使用JSP篇]
+- [玩转springboot2.x之使用JSP篇]
 <br>
 
 **整合部分**
@@ -20,7 +20,7 @@
 - [玩转springboot2.x之整合webSocket篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485170&idx=2&sn=ab9d829ee9eef451bc5b11eb0fa99bac&chksm=fde8cfbfca9f46a90a5cc1cffc8c26c13bf1e9c2f30c4b73e510d3c1b9618d36ef648818809b&scene=0#rd)
 - [玩转springboot2.x之整合freemarker篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485059&idx=2&sn=9ad765d7b74bbb70bb05fa53f7e186c2&chksm=fde8cfceca9f46d88fba63f2fa59a8cd6620e403580e1bd43f057bb599fcfff5a319dd400522&scene=0#rd)
 - [玩转springboot2.x之整合JWT篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485059&idx=3&sn=d8eb5e95a13a910b6b3ea26509283d52&chksm=fde8cfceca9f46d8ba036848cec636b03bf9656ffb2ccace5f64021a5cc167e3fd6e00960fcc&scene=0#rd)
-[玩转springboot2.x之整合mybatis篇]
+- [玩转springboot2.x之整合mybatis篇]
 <br>
 
 

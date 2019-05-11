@@ -13,6 +13,7 @@
 - [程序员那些悲催的事儿](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484721&idx=1&sn=4b6538003941ee3b4d0a447674a83f61&chksm=fde8cc7cca9f456a7fe3668d5dedc0f812d5b883b13b17ea8d1b49eaa47cf5cd90eb90e023d6&scene=0#rd)
 - [现实的抖音世界](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484841&idx=1&sn=a624a31ef643e60ae9b767f670cb1afd&chksm=fde8cce4ca9f45f29006489d3be1f7b33ba05948251825b27c7648e4bb4312252c547124392e&scene=0#rd)
 - [哈哈，今天这篇有点意思！！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485253&idx=1&sn=2fcce28f6cb8a3147f8cc0fd8aaec05e&chksm=fde8ce08ca9f471ea61e8bbbcf96ee792d1c54bcc6d3962f64eb738c2375c9e9ceef5f0c720c&scene=0#rd)
+- [宿命之战：程序员VS产品经理](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485305&idx=1&sn=0f44e426fa1d01b00b4c5eff7cddd822&chksm=fde8ce34ca9f47225776ace4b9afccc69cdd75f5422ed432601a6d66c288e079eaed09208420&scene=0#rd)
 <br>
 
 

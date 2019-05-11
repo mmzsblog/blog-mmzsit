@@ -11,12 +11,12 @@
 - 08、[JAVA枚举高级应用篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484561&idx=2&sn=04a51ed0479c4c482921414ee92d2839&chksm=fde8cddcca9f44ca5f291c5b8aa5c530482c0328946f2e4952827c540bbedcc76c790addf91d&scene=0#rd)
 - 09、[Thread Pool](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484287&idx=1&sn=d5cfa916f3c301ac76202b7a790993d7&chksm=fde8ca32ca9f4324caa952378eaf2739c3b778073979f327ebef383a0f5f68c2be715c991cf3&scene=0#rd)
 - 10、[Java集合总结(Collection)](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485192&idx=1&sn=2b84ee40f37ed0c1cec346ea074385d7&chksm=fde8ce45ca9f4753299f92ac07335e98b277af0a47816269b5621e3230900485b8ddfa827768&scene=0#rd)
-- 11、[待续]()
-- 12、[]()
-- 13、[]()
-- 14、[]()
-- 15、[]()
-- 16、[]()
+- 11、[写Java代码时你注意到了这十个细节吗？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485281&idx=1&sn=74a30f170ef1ae401a6b1c6bdbd7d72e&chksm=fde8ce2cca9f473a63977a1fe52872af51d61d540d2d790f0c65b06c1b6b4e1c5d7189b6e814&scene=0#rd)
+- 12、[待续]]()
+- 13、[待续]]()
+- 14、[待续]]()
+- 15、[待续]]()
+- 16、[待续]]()
 
 
 
