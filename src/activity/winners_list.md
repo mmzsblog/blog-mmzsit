@@ -40,7 +40,7 @@
    - 最初的梦想
    - null
 
-### 历史终将图片公开
+### 历史中奖图片公开
 
 ![送书第一话中奖图片](https://github.com/mmzsblog/blog-mmzsit/blob/master/src/image/winners/1.png)
 
