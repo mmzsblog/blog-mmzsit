@@ -6,12 +6,9 @@
 
 加我好友，拉你进群，更有超多惊喜等着你哦！<br>
 ![image](https://github.com/mmzsblog/blog-mmzsit/blob/master/src/image/mmzsblog.png)
-
-
-
-### 中奖名单公布: 
 <hr>
 
+### 中奖名单公布: 
 - [[送书第一话]：送书伊始《数据挖掘》](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484557&idx=1&sn=fa436ab955a772884365ede8a5642e52&chksm=fde8cdc0ca9f44d6860a0d66ccccad070d7b0c3c8f393f05c6b4847e90bb318ec56fe31c3649&scene=0#rd)<br>
    - Wy。L
    - 醉清风-Sean
@@ -39,7 +36,13 @@
    - 鸽
    - 最初的梦想
    - null
+
+
+
+
+
 <hr>
+
 ### 历史中奖图片公开
 
 ![送书第一话中奖图片](https://github.com/mmzsblog/blog-mmzsit/blob/master/src/image/winners/1.png)
