@@ -17,7 +17,7 @@
 文章：[【面试现场】如何编程解决华容道问题？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485266&idx=2&sn=576a2d1a4750495f304e4040bdb2e068&chksm=fde8ce1fca9f47095f6e774bbe5af7577fefb44e33026c67d49339e339ba7d5ee08d6dbfb2db&scene=0#rd)
 
 - 五、经典面试题回文串的处理技巧，中心扩展算法，马拉车算法讲解，时间空间分析。<br>
-文章：[【面试现场】如何找到字符串中的最长回文子串？]()
+文章：[【面试现场】如何找到字符串中的最长回文子串？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485318&idx=2&sn=71ef5fdc6034d0b9e9ed3c6574cce598&chksm=fde8cecbca9f47dd6a55d93db0eba58867f0df7d1134b9438d09980d8f8d062a806412fe8a19&scene=0#rd)
 
 - 六、大量单词统计方法，字典树详解，压缩编码的字典树优化及实现，字典树的使用场景解析。<br>
 文章：[【面试现场】如何在500w个单词中统计特定前缀的单词有多少个？]()
