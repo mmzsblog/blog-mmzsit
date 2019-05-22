@@ -20,7 +20,7 @@
 文章：[【面试现场】如何找到字符串中的最长回文子串？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485318&idx=2&sn=71ef5fdc6034d0b9e9ed3c6574cce598&chksm=fde8cecbca9f47dd6a55d93db0eba58867f0df7d1134b9438d09980d8f8d062a806412fe8a19&scene=0#rd)
 
 - 六、大量单词统计方法，字典树详解，压缩编码的字典树优化及实现，字典树的使用场景解析。<br>
-文章：[【面试现场】如何在500w个单词中统计特定前缀的单词有多少个？]()
+文章：[【面试现场】如何在500w个单词中统计特定前缀的单词有多少个？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485350&idx=2&sn=02ceeb6e0b38eebd460072cba669dcf3&chksm=fde8ceebca9f47fdb63598ffb2f5a7f83bdf9f5938f1a03f36568f1c675ee41e0ee57b82d791&scene=0#rd)
 
 - 七、大数据量下的经典TopN问题，分治法和堆算法的时间空间分析，算法内存情况解析。<br>
 文章：[【面试现场】如何在10亿数中找出前1000大的数]()
