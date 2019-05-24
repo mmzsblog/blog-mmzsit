@@ -29,7 +29,7 @@
    - 石头77
 - [[送书第6话]：送书《码农翻身》](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485350&idx=1&sn=52d86bea6ad6b8f695b3fe18009b1cb9&chksm=fde8ceebca9f47fdef5d4b76fed0c6c485f3a71b5e1b2528452bc59766a37e8d0b7ebc0367b2&scene=0#rd)
    - 123cium
-- [[送书第7话]：送书『Kafka,Spring boot,Spring data...』](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485358&idx=1&sn=494b6ab5d738d4a9a8d6f1d0c4100a5d&chksm=fde8cee3ca9f47f5c6d49a1e37d32fd0a07c6c813faa3a0823614ed2e9110c7c380dc13b1757&scene=0#rd)
+- [[送书第7话]：送书《Kafka,Spring boot,Spring data...》](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485358&idx=1&sn=494b6ab5d738d4a9a8d6f1d0c4100a5d&chksm=fde8cee3ca9f47f5c6d49a1e37d32fd0a07c6c813faa3a0823614ed2e9110c7c380dc13b1757&scene=0#rd)
    - 
    - 
    - 

@@ -1,5 +1,6 @@
 ## CSDN资源免费下载
 - [There are benefits here, please accept！](https://mp.weixin.qq.com/s/ttpBQ6c8P0uOC8Ih34WzEA)
+- [CSDN资源免费下载的正确姿势](https://mp.weixin.qq.com/s/fT_I4f4Jo2hhLm0rCnfTNw)
 
 ## 送书活动
 - **中奖名单公布**: [戳这里](https://github.com/mmzsblog/blog-mmzsit/blob/master/src/activity/winners_list.md)
