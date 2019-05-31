@@ -5,3 +5,8 @@
 - [mysql性能优化详解](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247483843&idx=1&sn=d17098d4aea880f515b3acb982c500c3&chksm=fde8c88eca9f4198f26f8e658ab61ac6bc1c9d95d6dc7a2605b01ca598926f91e4bb9aede392&scene=0#rd)
 - [mysql事务隔离级别详解](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484647&idx=1&sn=45b952e6b23c0f92fc619d96284d84dd&chksm=fde8cdaaca9f44bcee242ea3dd604bcbc555cfabfc0b4f154bd87c6462c62c5145829cf9cb60&scene=0#rd)
 - [mysql索引原理及设计](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484944&idx=1&sn=0885e7a8a00c029f86125d4eb4712cb4&chksm=fde8cf5dca9f464bc0c5e1540170e3b0fd5bc9cb11672f39a0f5cdaee17f1c09dc2655ecef73&scene=0#rd)
+- [图文并茂的带你彻底理解悲观锁与乐观锁](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485375&idx=1&sn=d4b7b68ed9162c7572f4fa52e7a9369a&chksm=fde8cef2ca9f47e471f9104dc7b1d8b910cc319b2295fef0e35ae89704c32a6e11ad38351f56&scene=0#rd)
+
+
+
+
