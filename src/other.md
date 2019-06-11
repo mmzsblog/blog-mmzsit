@@ -5,7 +5,7 @@
 - [Python一键转Java？“谷歌翻译”你别闹（附链接）](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484844&idx=1&sn=630bb6ce05fcb582d4086fae4e20f9c0&chksm=fde8cce1ca9f45f73227f514eeeb430bcd2a6749ae276e070a0899bbc55268838d4da08b5b5f&scene=0#rd)
 <br>
 
-
+- [一次心惊肉跳的服务器误删文件的恢复过程](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485391&idx=1&sn=41dffaaea916c4a27c9781f28c67968b&chksm=fde8ce82ca9f47949767452dc9cb5229fef05dbf1576c7548c2944cc59c3cd38884bdf01d1b0&scene=0#rd)
 - [平时的你VS面试的你](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484699&idx=1&sn=f163eea34a9713efeea9ab5610d5fd83&chksm=fde8cc56ca9f4540fa7ee533825c0c0665cb781ec865edff87c686733fb117351360073e1eea&scene=0#rd)
 - [程序员那些悲催的事儿](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484721&idx=1&sn=4b6538003941ee3b4d0a447674a83f61&chksm=fde8cc7cca9f456a7fe3668d5dedc0f812d5b883b13b17ea8d1b49eaa47cf5cd90eb90e023d6&scene=0#rd)
 <br>
@@ -17,6 +17,7 @@
 <br>
 
 
+- [程序世界 之 上班大迁徙](https://mp.weixin.qq.com/s/5BymdvF6rZTHCMCkNeLHmA)
 - [你需要知道的成人世界黑话指南](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484839&idx=1&sn=0a323dde6e142826b9cac51fd97508e0&chksm=fde8cceaca9f45fc4debc5a2911341cbc0af61d90ce443682dc39b98c6951eb2c993fa37ba8c&scene=0#rd)
 - [现实的抖音世界](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484841&idx=1&sn=a624a31ef643e60ae9b767f670cb1afd&chksm=fde8cce4ca9f45f29006489d3be1f7b33ba05948251825b27c7648e4bb4312252c547124392e&scene=0#rd)
 

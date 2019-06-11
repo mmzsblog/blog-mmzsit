@@ -23,10 +23,10 @@
 文章：[【面试现场】如何在500w个单词中统计特定前缀的单词有多少个？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485350&idx=2&sn=02ceeb6e0b38eebd460072cba669dcf3&chksm=fde8ceebca9f47fdb63598ffb2f5a7f83bdf9f5938f1a03f36568f1c675ee41e0ee57b82d791&scene=0#rd)
 
 - 七、大数据量下的经典TopN问题，分治法和堆算法的时间空间分析，算法内存情况解析。<br>
-文章：[【面试现场】如何在10亿数中找出前1000大的数]()
+文章：[【面试现场】如何在10亿数中找出前1000大的数](https://mp.weixin.qq.com/s/2FseBZigYyEZQn4NtqFZlg)
 
 - 八、如何避免重复计算，记忆化搜索，记忆化深搜与广搜解析，动态规划，状态压缩思路。<br>
-文章：[【面试现场】如何编程获得最多的年终红包奖？]()
+文章：[【面试现场】如何编程获得最多的年终红包奖？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485391&idx=2&sn=b2e084d1b7bfb9d758495d80a6069651&chksm=fde8ce82ca9f4794654883c4b78293780f9dab049367a20a364f138eac729dea9326f2700c6e&scene=0#rd)
 
 - 九、链表和树的选择，并查集详解，按秩优化和路径压缩优化思路及实现。<br>
 文章：[【面试现场】如何编程解决朋友圈个数问题？]()

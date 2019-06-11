@@ -6,7 +6,7 @@
 - [Java性能优化的50个细节（珍藏版）](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485013&idx=1&sn=4b1e11c2750326c0ba543f6d2df7c6f5&chksm=fde8cf18ca9f460eae48b030d22b2a28c8e95f08b6d82db12418524f639e0daf1d02f8f30e28&scene=0#rd)
 <br>
 
-
+- [一次心惊肉跳的服务器误删文件的恢复过程](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485391&idx=1&sn=41dffaaea916c4a27c9781f28c67968b&chksm=fde8ce82ca9f47949767452dc9cb5229fef05dbf1576c7548c2944cc59c3cd38884bdf01d1b0&scene=0#rd)
 - [程序员中的漫画段子手](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485220&idx=1&sn=70dbb11e4c482fad5ee12955ea883947&chksm=fde8ce69ca9f477f9dcf0ad21f6d4e419e6e314adbd8964b32ef007d838d736c49cd00b67598&scene=0#rd)
 - [Python一键转Java？“谷歌翻译”你别闹（附链接）](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484844&idx=1&sn=630bb6ce05fcb582d4086fae4e20f9c0&chksm=fde8cce1ca9f45f73227f514eeeb430bcd2a6749ae276e070a0899bbc55268838d4da08b5b5f&scene=0#rd)
 - [平时的你VS面试的你](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484699&idx=1&sn=f163eea34a9713efeea9ab5610d5fd83&chksm=fde8cc56ca9f4540fa7ee533825c0c0665cb781ec865edff87c686733fb117351360073e1eea&scene=0#rd)
@@ -14,11 +14,6 @@
 - [现实的抖音世界](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484841&idx=1&sn=a624a31ef643e60ae9b767f670cb1afd&chksm=fde8cce4ca9f45f29006489d3be1f7b33ba05948251825b27c7648e4bb4312252c547124392e&scene=0#rd)
 - [哈哈，今天这篇有点意思！！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485253&idx=1&sn=2fcce28f6cb8a3147f8cc0fd8aaec05e&chksm=fde8ce08ca9f471ea61e8bbbcf96ee792d1c54bcc6d3962f64eb738c2375c9e9ceef5f0c720c&scene=0#rd)
 - [宿命之战：程序员VS产品经理](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485305&idx=1&sn=0f44e426fa1d01b00b4c5eff7cddd822&chksm=fde8ce34ca9f47225776ace4b9afccc69cdd75f5422ed432601a6d66c288e079eaed09208420&scene=0#rd)
-<br>
-
-
-- [玩转Linux服务器常用命令](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247483910&idx=1&sn=957b6e803f9a209441db1d8a58e689d4&chksm=fde8cb4bca9f425d26771c43b6a450d5757be83d9d8043f9c9ad28565b1b6b6951ebc71d4b96&scene=0#rd)
-- [用一部手机玩转Linux与Windows](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247483898&idx=1&sn=8c13f947e8e9d632450e60c9f3d431e0&chksm=fde8c8b7ca9f41a1c31015b7a85ca8ed984658e5d25ff14af1c4e6415440b5f855a1bac87c07&scene=0#rd)
 <br>
 
 
