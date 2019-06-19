@@ -29,10 +29,10 @@
 文章：[【面试现场】如何编程获得最多的年终红包奖？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485391&idx=2&sn=b2e084d1b7bfb9d758495d80a6069651&chksm=fde8ce82ca9f4794654883c4b78293780f9dab049367a20a364f138eac729dea9326f2700c6e&scene=0#rd)
 
 - 九、链表和树的选择，并查集详解，按秩优化和路径压缩优化思路及实现。<br>
-文章：[【面试现场】如何编程解决朋友圈个数问题？]()
+文章：[【面试现场】如何编程解决朋友圈个数问题？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485412&idx=2&sn=4428017b2c97518aa6ac7c1c28b08fd3&chksm=fde8cea9ca9f47bfa8065c2c61433b92b8a88d503f76b6e750229ca0a64280c626ed3da32d4f&scene=0#rd)
 
 - 十、五子棋AI设计思路，人工智能本质解析，按照人工智能思路设计程序讲解。<br>
-文章：[【面试现场】如何设计可自学习的五子棋AI？]()
+文章：[【面试现场】如何设计可自学习的五子棋AI？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485424&idx=2&sn=fb8757b4f7524c113150b8952c36af86&chksm=fde8cebdca9f47ab3c86507fca3ef038b70d03ec262e12a52edb9458255d003fee92c87bb949&scene=0#rd)
 
 - 十一、小史的项目结构与技术栈展示，红黑树、B树、B+树的比较与各自使用场景解析。<br>
 文章：[【面试现场】为什么MySQL数据库要用B+树存储索引？]()

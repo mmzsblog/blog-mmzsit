@@ -17,6 +17,7 @@
 <br>
 
 
+- [你这简历一看就是包装过的](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485424&idx=1&sn=8653b27053b9fb1bda4a995eef3a7142&chksm=fde8cebdca9f47abed3dceb8515d6d0e01c62124a1b2ac6c00398b1656594654d81c8c284ebc&scene=0#rd)
 - [IDEA一定要改的八条配置](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484565&idx=1&sn=6a226202ffdf9a620ec403fd9bd835bb&chksm=fde8cdd8ca9f44ce03f9eaa43f2e21f5a1260735eeb647d36009acf0d16e0529b4e4b5fb6882&mpshare=1&scene=1&srcid=1224xXrPDCjNFPT0ZeRhZqZE#rd)
 <br>
 

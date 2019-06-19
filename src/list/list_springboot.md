@@ -7,6 +7,7 @@
 <br>
 
 **深入部分**
+- [玩转springboot2.x之统一异常处理篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485403&idx=2&sn=4ed6f5a85672b977a5e8f9d5537eafb3&chksm=fde8ce96ca9f4780923e7b2dbb5e43f03ea082c599843df1a941e36a345fdf34361d21998d66&scene=0#rd)
 - [玩转springboot2.x之异步调用@Async](https://mp.weixin.qq.com/s/4JmNZ0yL8ZH-JL8-XBtL7w)
 - [玩转springboot2.x之搭建Actuator和spring boot admin监控篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485185&idx=2&sn=ea5926635baf65f8c89d1758660b9092&chksm=fde8ce4cca9f475a0ec4569b066335a765f1b82490657bc5fbd1468b3dfecca99541830985cf&scene=0#rd)
 - [玩转springboot2.x之restful api开发篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485013&idx=3&sn=13bc99558cb3d445a46ac31f6f993913&chksm=fde8cf18ca9f460e7398d2f634fd0a68c883c2463358390b6f1cf0a681066004395c09d18130&scene=0#rd)
