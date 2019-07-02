@@ -12,9 +12,9 @@
 - 09、[Thread Pool](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484287&idx=1&sn=d5cfa916f3c301ac76202b7a790993d7&chksm=fde8ca32ca9f4324caa952378eaf2739c3b778073979f327ebef383a0f5f68c2be715c991cf3&scene=0#rd)
 - 10、[Java集合总结(Collection)](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485192&idx=1&sn=2b84ee40f37ed0c1cec346ea074385d7&chksm=fde8ce45ca9f4753299f92ac07335e98b277af0a47816269b5621e3230900485b8ddfa827768&scene=0#rd)
 - 11、[写Java代码时你注意到了这十个细节吗？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485281&idx=1&sn=74a30f170ef1ae401a6b1c6bdbd7d72e&chksm=fde8ce2cca9f473a63977a1fe52872af51d61d540d2d790f0c65b06c1b6b4e1c5d7189b6e814&scene=0#rd)
-- 12、[不加锁的ConcurrentHashMap是如何保证线程安全的？]](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485427&idx=2&sn=a07df1d3ff616cf04a126c37bb34494e&chksm=fde8cebeca9f47a82189277d041429cd43afef42d1f2e092a8e8df0c73870d381334185ecf09&scene=0#rd)
-- 13、[不了解这12个语法糖，别说你会Java！]](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485442&idx=1&sn=33d7b673d14b9cc63348528894aac246&chksm=fde8c14fca9f4859088f45827c03c5b813fc4c35195151659ccb9bcfa0f072d19a3b7f8bc184&scene=0#rd)
-- 14、[为什么阿里巴巴要求谨慎使用ArrayList中的subList方法]](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485458&idx=1&sn=01f4efd9d3aed700d325354ed71b9734&chksm=fde8c15fca9f4849d5b93c8f4f5d465878379ce88702901c9d5f4ef113a74db6dca25fc5015c&scene=0#rd)
+- 12、[不加锁的ConcurrentHashMap是如何保证线程安全的？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485427&idx=2&sn=a07df1d3ff616cf04a126c37bb34494e&chksm=fde8cebeca9f47a82189277d041429cd43afef42d1f2e092a8e8df0c73870d381334185ecf09&scene=0#rd)
+- 13、[不了解这12个语法糖，别说你会Java！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485442&idx=1&sn=33d7b673d14b9cc63348528894aac246&chksm=fde8c14fca9f4859088f45827c03c5b813fc4c35195151659ccb9bcfa0f072d19a3b7f8bc184&scene=0#rd)
+- 14、[为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485458&idx=1&sn=01f4efd9d3aed700d325354ed71b9734&chksm=fde8c15fca9f4849d5b93c8f4f5d465878379ce88702901c9d5f4ef113a74db6dca25fc5015c&scene=0#rd)
 - 15、[待续]]()
 - 16、[待续]]()
 
