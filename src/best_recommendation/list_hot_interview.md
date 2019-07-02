@@ -35,10 +35,10 @@
 文章：[【面试现场】如何设计可自学习的五子棋AI？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485424&idx=2&sn=fb8757b4f7524c113150b8952c36af86&chksm=fde8cebdca9f47ab3c86507fca3ef038b70d03ec262e12a52edb9458255d003fee92c87bb949&scene=0#rd)
 
 - 十一、小史的项目结构与技术栈展示，红黑树、B树、B+树的比较与各自使用场景解析。<br>
-文章：[【面试现场】为什么MySQL数据库要用B+树存储索引？]()
+文章：[【面试现场】为什么MySQL数据库要用B+树存储索引？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485452&idx=2&sn=92bfb59432c693d9a70df7fc440aacb3&chksm=fde8c141ca9f485778d25b5fa0a126a3a13cb3528277265cf3de3361972c5c2d3fc633308a4f&scene=0#rd)
 
 - 十二、简历编写要点，STAR法则解析，简历如何突出亮点同时避免面试的尴尬。<br>
-文章：[【面试现场(番外)】小史，教教我怎么写简历！]()
+文章：[【面试现场(番外)】小史，教教我怎么写简历！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485458&idx=2&sn=57bb683c6433089b0c59f6414d76c5b1&chksm=fde8c15fca9f4849062bef2133340ebb2d8bc22286549edba8897d26fd1c0fc126d7c9b7677b&scene=0#rd)
 
 内容详实，希望对大家的面试有所帮助。<br>
 ![image](https://github.com/mmzsblog/blog-mmzsit/blob/master/src/image/%E4%BA%92%E8%81%94%E7%BD%91%E4%BE%A6%E5%AF%9F.jpg)

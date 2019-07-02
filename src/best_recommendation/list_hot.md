@@ -6,6 +6,7 @@
 - [Java性能优化的50个细节（珍藏版）](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485013&idx=1&sn=4b1e11c2750326c0ba543f6d2df7c6f5&chksm=fde8cf18ca9f460eae48b030d22b2a28c8e95f08b6d82db12418524f639e0daf1d02f8f30e28&scene=0#rd)
 <br>
 
+- [这些有趣的代码注释，喜欢的拿走用](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485434&idx=2&sn=e45861885b64431ea05db22a88446e1c&chksm=fde8ceb7ca9f47a11d868ff8d05735a63aa3bf559023419f264dfb770ada49e5d6c55e07f721&scene=0#rd)
 - [一次心惊肉跳的服务器误删文件的恢复过程](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485391&idx=1&sn=41dffaaea916c4a27c9781f28c67968b&chksm=fde8ce82ca9f47949767452dc9cb5229fef05dbf1576c7548c2944cc59c3cd38884bdf01d1b0&scene=0#rd)
 - [程序员中的漫画段子手](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485220&idx=1&sn=70dbb11e4c482fad5ee12955ea883947&chksm=fde8ce69ca9f477f9dcf0ad21f6d4e419e6e314adbd8964b32ef007d838d736c49cd00b67598&scene=0#rd)
 - [Python一键转Java？“谷歌翻译”你别闹（附链接）](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484844&idx=1&sn=630bb6ce05fcb582d4086fae4e20f9c0&chksm=fde8cce1ca9f45f73227f514eeeb430bcd2a6749ae276e070a0899bbc55268838d4da08b5b5f&scene=0#rd)

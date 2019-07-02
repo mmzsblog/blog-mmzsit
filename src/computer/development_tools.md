@@ -8,6 +8,7 @@
 
 ### Intellij IDEA使用
 - [IDEA一定要改的八条配置](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484565&idx=1&sn=6a226202ffdf9a620ec403fd9bd835bb&chksm=fde8cdd8ca9f44ce03f9eaa43f2e21f5a1260735eeb647d36009acf0d16e0529b4e4b5fb6882&mpshare=1&scene=1&srcid=1224xXrPDCjNFPT0ZeRhZqZE#rd)
+- [入坑 IntelliJ IDEA 必备插件系列](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485452&idx=3&sn=ca6e9d0da8826448ce4b07f5a6973238&chksm=fde8c141ca9f485723218b39d87767a6fc42440e9f02a58976f91f6feda60e611f4a35571c8a&scene=0#rd)
 - [Intellij IDEA神器居然还有这些小技巧](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=100000272&idx=1&sn=9e4b1d1fe4105c2b8430557aa72d6b01&chksm=7de8cb5d4a9f424bc72bea7f40fa1585315984b6b69f5f7cf73aeb90f6126ea1dcf70de0c9a7&scene=0#rd)
 - [Intellij IDEA debug断点调试技巧与总结详解篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484344&idx=1&sn=1b51aab3a986f4935ad0464300ef3f33&chksm=fde8caf5ca9f43e3a44b46f44067c36bb87a3cbc251cd0cffa45256db8b184f296d922e773ec&scene=0#rd)
 - [IntelliJ IDEA 下的svn配置及使用的非常详细的图文总结](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484441&idx=1&sn=ea156ca7a91933d37e4304018290dd8e&chksm=fde8cd54ca9f44420ab7a2fd9e69468082eee9aa3c90eea554aff36ae2fcc558ff60196d5957&scene=0#rd)
