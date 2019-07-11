@@ -40,6 +40,8 @@
 - 十二、简历编写要点，STAR法则解析，简历如何突出亮点同时避免面试的尴尬。<br>
 文章：[【面试现场(番外)】小史，教教我怎么写简历！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485458&idx=2&sn=57bb683c6433089b0c59f6414d76c5b1&chksm=fde8c15fca9f4849062bef2133340ebb2d8bc22286549edba8897d26fd1c0fc126d7c9b7677b&scene=0#rd)
 
+- [【面试现场】第一季合集](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485471&idx=3&sn=8e2bf38d35f292bff5af25d5fd779873&chksm=fde8c152ca9f4844419ab5dbefb89da47eaac5404341647db3ea183ccbae2891543f7348339f&scene=0#rd)
+
 内容详实，希望对大家的面试有所帮助。<br>
 ![image](https://github.com/mmzsblog/blog-mmzsit/blob/master/src/image/%E4%BA%92%E8%81%94%E7%BD%91%E4%BE%A6%E5%AF%9F.jpg)
 
