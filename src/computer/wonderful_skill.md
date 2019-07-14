@@ -14,4 +14,4 @@
 ### 小工具推荐
 - [开发者的黑科技小工具](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484020&idx=1&sn=c6260e15f7722f4df419c9e22f7b98c6&chksm=fde8cb39ca9f422f08d878c2a4fe586be9232891a693420114c5a6ad7d9e993415da4eb69b9b&scene=0#rd)
 - [用一部手机玩转Linux与Windows](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247483898&idx=1&sn=8c13f947e8e9d632450e60c9f3d431e0&chksm=fde8c8b7ca9f41a1c31015b7a85ca8ed984658e5d25ff14af1c4e6415440b5f855a1bac87c07&scene=0#rd)
-
+- [电脑必备的一款神器，100%提升工作效率！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485475&idx=1&sn=4be3d2ac318293109a9bcd14e6bf24b0&chksm=fde8c16eca9f48782ca174e51d0d98aa6ab8c03849fa452273472aa89f4fb2074f6a2dc86e6b&scene=0#rd)

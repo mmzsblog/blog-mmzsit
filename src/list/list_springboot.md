@@ -19,6 +19,7 @@
 **整合部分**
 - [玩转springboot2.x之整合丝袜哥(swagger)篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485146&idx=2&sn=3676d6559e269b508fb5980b7a3c2717&chksm=fde8cf97ca9f4681b6657ce881b936df5ff613fe3757459a9ea36033b4b151b9acf7b24ceaab&scene=0#rd)
 - [玩转SpringBoot2.x之整合定时任务详解](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484612&idx=1&sn=d9c2ca10bde950ef2a3c317ecd48a2c4&chksm=fde8cd89ca9f449ff23a5b158ec8fc73d2c76f70f478a3370795c710e2d7ca8d596e4fc021c1&scene=0#rd)
+- [玩转SpringBoot之整合Mybatis拦截器对数据库水平分表](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485475&idx=2&sn=b39a37e89ae860bd0fd7e1cdde93f362&chksm=fde8c16eca9f4878f003f6243605ac4f23c89ff9727fd430386a78a7a58449e782237fedecc1&scene=0#rd)
 - [玩转springboot2.x之整合webSocket篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485170&idx=2&sn=ab9d829ee9eef451bc5b11eb0fa99bac&chksm=fde8cfbfca9f46a90a5cc1cffc8c26c13bf1e9c2f30c4b73e510d3c1b9618d36ef648818809b&scene=0#rd)
 - [玩转springboot2.x之整合freemarker篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485059&idx=2&sn=9ad765d7b74bbb70bb05fa53f7e186c2&chksm=fde8cfceca9f46d88fba63f2fa59a8cd6620e403580e1bd43f057bb599fcfff5a319dd400522&scene=0#rd)
 - [玩转springboot2.x之整合JWT篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485059&idx=3&sn=d8eb5e95a13a910b6b3ea26509283d52&chksm=fde8cfceca9f46d8ba036848cec636b03bf9656ffb2ccace5f64021a5cc167e3fd6e00960fcc&scene=0#rd)
