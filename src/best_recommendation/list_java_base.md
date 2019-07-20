@@ -15,8 +15,8 @@
 - 12、[不加锁的ConcurrentHashMap是如何保证线程安全的？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485427&idx=2&sn=a07df1d3ff616cf04a126c37bb34494e&chksm=fde8cebeca9f47a82189277d041429cd43afef42d1f2e092a8e8df0c73870d381334185ecf09&scene=0#rd)
 - 13、[不了解这12个语法糖，别说你会Java！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485442&idx=1&sn=33d7b673d14b9cc63348528894aac246&chksm=fde8c14fca9f4859088f45827c03c5b813fc4c35195151659ccb9bcfa0f072d19a3b7f8bc184&scene=0#rd)
 - 14、[为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485458&idx=1&sn=01f4efd9d3aed700d325354ed71b9734&chksm=fde8c15fca9f4849d5b93c8f4f5d465878379ce88702901c9d5f4ef113a74db6dca25fc5015c&scene=0#rd)
-- 15、[待续]]()
-- 16、[待续]]()
+- 15、[为什么阿里巴巴禁止在 foreach 循环里进行元素的 remove/add 操作](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485482&idx=2&sn=d8019e7ef655c2057f44c1e856e71549&chksm=fde8c167ca9f487135b501098540eb35b0927b46b21579bc0a1ea876b3a11cb1ecd22b0bb90d&scene=0#rd)
+- 16、[待续]()
 
 
 

@@ -4,6 +4,7 @@
 - [Chrome开发者工具的小技巧](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484712&idx=1&sn=8e006fa07b32b878614332977863da4f&chksm=fde8cc65ca9f4573cca123941e7fa96157309a882491ae4714296025bbeccd6d1747cbbe2519&scene=0#rd)
 - [电脑配置环境变量的妙用](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247483899&idx=1&sn=55bd364cdac2b8d67077238bce0245b7&chksm=fde8c8b6ca9f41a051f9462f601b03134f6fdc4852b0fa00a0c4f7182be663c8c09fbfb561e6&scene=0#rd)
 - [你真的会高效的在GitHub搜索开源项目吗?](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484682&idx=1&sn=81d39fc31955822c7471567bab86d666&chksm=fde8cc47ca9f45518035edb00cf694a6e51b0f21d499c4bd48191171576eaaadf9ae29932286&scene=0#rd)
+- [你必须收藏的 GitHub 技巧](https://mp.weixin.qq.com/s/ZR9N0X7VfU-NEJzokqfC5w)
 
 ### 网站推荐
 - [【推荐】PDF在线转换神器](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247483891&idx=1&sn=08cf5c1ec5bf639a1ee4d8f2aa41145a&chksm=fde8c8beca9f41a8ec9e266c965af4f5762f904149936630e7fc81878f56e7da4ffd841755a8&scene=0#rd)

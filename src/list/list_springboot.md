@@ -4,6 +4,7 @@
 **入门部分**
 - [玩转springboot2.x之IntellJ IDEA快速搭建](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484944&idx=2&sn=511478837ef1517fba3dfcb904a40178&chksm=fde8cf5dca9f464bc9f16ff02f692bd5aa078bebe641c33e5c5c409221680a46a1d34ead9267&scene=0#rd)
 - [玩转springboot2.x之快速入门开山篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485013&idx=2&sn=99b619ffd554d642758b30e7b197f5a5&chksm=fde8cf18ca9f460e88e7221498c7eab20f1ecdc18086c195e9e2e90043b8454aed1fe14dca01&scene=0#rd)
+- [玩转SpringBoot之MyBatisplus自动化构建工具](https://mp.weixin.qq.com/s/uJuGAyE-9qr-ee8L15CIzw)
 <br>
 
 **深入部分**
