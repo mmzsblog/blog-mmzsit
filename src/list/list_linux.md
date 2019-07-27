@@ -6,7 +6,7 @@
 - [用一部手机玩转Linux与Windows](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247483898&idx=1&sn=8c13f947e8e9d632450e60c9f3d431e0&chksm=fde8c8b7ca9f41a1c31015b7a85ca8ed984658e5d25ff14af1c4e6415440b5f855a1bac87c07&scene=0#rd)
 - [MySQL在Linux下如何实现定时备份！！！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485412&idx=1&sn=766282746ad7044b6f58d53ed51c1934&chksm=fde8cea9ca9f47bfd84f7483488c51a1896a5de8ae5ef81fbc7906df8a251db1e53d64844f7c&scene=0#rd)
 - [5种不一样的简易操作重复执行历史命令](https://mp.weixin.qq.com/s/4XyAlZQFO4NkVc2ZMPNSow)
-- [待续]()
+- [你在服务器上的一举一动，我可都看着！linux超骚技巧三分钟Get](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485515&idx=1&sn=8e9fba24685e8895008ebdfa1db36867&chksm=fde8c106ca9f481099e3d98d41dd14846f3971b8fddd98e160fc376b1457990d95283c0bdc64&scene=0#rd)
 - [待续]()
 <br>
 
