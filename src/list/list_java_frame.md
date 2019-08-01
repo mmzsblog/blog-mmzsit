@@ -6,4 +6,6 @@
 - [注解@CrossOrigin解决跨域问题](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247483889&idx=1&sn=75be291bfbe605256cb16de2f79f7e90&chksm=fde8c8bcca9f41aa85f37e402c24e296e2bbd257e13a15bfeb59632a3ed851cf13b0e9f78949&scene=0#rd)
 - [架构师必备，带你弄清混乱的JAVA日志体系！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484581&idx=1&sn=2b3e1931207410eb6e8f25fb91a996ad&chksm=fde8cde8ca9f44fe5f1197fb7d2cdb577ed797be32a939dc6bc3e19905fa793d6a24ca394ec9&scene=0#rd)
 - [Apache FreeMarker模板引擎的基本语法](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485013&idx=4&sn=832209ecf260498040b77e81bf2e0075&chksm=fde8cf18ca9f460e6da5d5ad8c3e8e32c4404199a3c1fd011a3cba4c39ddfb99fc18dcc4bf89&scene=0#rd)
+- [什么是消息队列？](https://mp.weixin.qq.com/s/HMmAM7nStxWGNzVRjb8nkQ)
+- [除了转发和负载均衡，nginx又一次让他玩出新高度](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485529&idx=1&sn=74536fd23c9a745086d3470234e6767a&chksm=fde8c114ca9f480297a1fae9b3eec5b2a83fd64aed71ca7b59acf581d8e1c422ff582d24df66&scene=0#rd)
 

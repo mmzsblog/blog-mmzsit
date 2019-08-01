@@ -6,6 +6,7 @@
 
 
 - [面试大厂回来后，有一些话想对 Java 后端开发说一说](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485434&idx=1&sn=9b905a75a204d9f1cd568bddef889f29&chksm=fde8ceb7ca9f47a164d865ee00d9e7b52328dd5c3b545da0fa080b3a4252e833498f232eac39&scene=0#rd)
+- [面试时这样介绍自己的项目经验，成功率能达到98.99%](https://mp.weixin.qq.com/s/PlUWLvcl5QUyl3rImaO8wA)
 <br>
 
 

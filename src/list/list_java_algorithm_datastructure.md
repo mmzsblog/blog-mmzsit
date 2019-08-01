@@ -5,7 +5,7 @@
 - [漫画：什么是外部排序？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484536&idx=3&sn=2a5742da066aaddd7986ac9bc3f969f0&chksm=fde8cd35ca9f44235fa0486ed8a4627f913cea97507dd362323f87d3b75f78a7e332ac712434&scene=0#rd)
 - [漫画：为什么要分稳定排序和非稳定排序？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484517&idx=1&sn=c9b53dd22d39297cc7ff7359fe77f3e7&chksm=fde8cd28ca9f443e8fa03340c684bb3197eadd425bfe1a3576a01bb6767fe3f1fd219a254824&scene=0#rd)
 - [漫画：什么是ConcurrentHashMap？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484511&idx=1&sn=47f9824c7e6be899e7899ef108150112&chksm=fde8cd12ca9f440498a807c3eb226d1a7c27392617cc84e81ccc8ceacdc9bb7bb38b2bd1c9ee&scene=0#rd)
-- [待续]()
+- [看动画轻松理解「链表」实现「LRU缓存淘汰算法」](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485529&idx=2&sn=bd141bd385a342789753592558691599&chksm=fde8c114ca9f480238820c2b41e98c2a933d4210af45dd8574806060813a6240afb31ad31ffd&scene=0#rd)
 - [待续]()
 
 
