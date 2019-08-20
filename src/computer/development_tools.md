@@ -12,6 +12,7 @@
 - [Intellij IDEA神器居然还有这些小技巧](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=100000272&idx=1&sn=9e4b1d1fe4105c2b8430557aa72d6b01&chksm=7de8cb5d4a9f424bc72bea7f40fa1585315984b6b69f5f7cf73aeb90f6126ea1dcf70de0c9a7&scene=0#rd)
 - [Intellij IDEA debug断点调试技巧与总结详解篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484344&idx=1&sn=1b51aab3a986f4935ad0464300ef3f33&chksm=fde8caf5ca9f43e3a44b46f44067c36bb87a3cbc251cd0cffa45256db8b184f296d922e773ec&scene=0#rd)
 - [IntelliJ IDEA 下的svn配置及使用的非常详细的图文总结](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484441&idx=1&sn=ea156ca7a91933d37e4304018290dd8e&chksm=fde8cd54ca9f44420ab7a2fd9e69468082eee9aa3c90eea554aff36ae2fcc558ff60196d5957&scene=0#rd)
+- [IDEA那几个用了就能飞起来的开发插件](https://mp.weixin.qq.com/s/bChmvQHvVa6O31mUKczBCg)
 
 ### eclipse使用
 - [eclipse中使用pull报错（git提交冲突）](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247483901&idx=1&sn=d97762e263ecbf203e7d256f9eae5d9e&chksm=fde8c8b0ca9f41a6179102f44900a33638d31fde4e1e1b5f3bfbf0958ed90e512f6b68fba72a&scene=0#rd)

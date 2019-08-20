@@ -8,6 +8,7 @@
 - 05、[注解](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484092&idx=1&sn=debcbe15066a64779fd6980d5b86a033&chksm=fde8cbf1ca9f42e7daeb45d79f12a7f67428b2b179e1f3d742fef6071927da5889a188c8bed9&scene=0#rd)
 - 06、[基本类型之间的相互转换](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484119&idx=2&sn=0a1d425e6367d21668b784698e2b020c&chksm=fde8cb9bca9f428dce205eb6724d1b38f1e8927fe1b5744946854453&scene=0#rd)
 - 07、[Byte和各数据类型之间的转换](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484132&idx=2&sn=f61f08088a5ff9a5585b5d67fcf10516&chksm=fde8cba9ca9f42bf752eb2ff4c47898b21ea1790a0989d236976b2e5d7d10d5642e471f6becb&scene=0#rd)
+- 08、[Java枚举：小小enum，优雅而干净](https://mp.weixin.qq.com/s/8nFOVHYAHgMkYgz1i56qeQ)
 - 08、[JAVA枚举高级应用篇](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484561&idx=2&sn=04a51ed0479c4c482921414ee92d2839&chksm=fde8cddcca9f44ca5f291c5b8aa5c530482c0328946f2e4952827c540bbedcc76c790addf91d&scene=0#rd)
 - 09、[Thread Pool](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484287&idx=1&sn=d5cfa916f3c301ac76202b7a790993d7&chksm=fde8ca32ca9f4324caa952378eaf2739c3b778073979f327ebef383a0f5f68c2be715c991cf3&scene=0#rd)
 - 10、[Java集合总结(Collection)](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485192&idx=1&sn=2b84ee40f37ed0c1cec346ea074385d7&chksm=fde8ce45ca9f4753299f92ac07335e98b277af0a47816269b5621e3230900485b8ddfa827768&scene=0#rd)
@@ -17,8 +18,8 @@
 - 14、[为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485458&idx=1&sn=01f4efd9d3aed700d325354ed71b9734&chksm=fde8c15fca9f4849d5b93c8f4f5d465878379ce88702901c9d5f4ef113a74db6dca25fc5015c&scene=0#rd)
 - 15、[为什么阿里巴巴禁止在 foreach 循环里进行元素的 remove/add 操作](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485482&idx=2&sn=d8019e7ef655c2057f44c1e856e71549&chksm=fde8c167ca9f487135b501098540eb35b0927b46b21579bc0a1ea876b3a11cb1ecd22b0bb90d&scene=0#rd)
 - 16、[为什么阿里巴巴建议集合初始化时，指定集合容量大小？](https://mp.weixin.qq.com/s/8kWiWhUQ3hMAcEQNL2GxbA)
-- 17、[待续]()
-
+- 17、[为什么阿里巴巴不建议在for循环中使用"+"进行字符串拼接](https://mp.weixin.qq.com/s/RlQTOQAeWZe3aBqZLj6QPw)
+- 18、[秒懂 QPS、TPS、PV、UV、GMV、IP、RPS！](https://mp.weixin.qq.com/s/Q0fZqDoQsHJqSTBS3ehJJw)
 
 
 

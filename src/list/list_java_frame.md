@@ -8,4 +8,4 @@
 - [Apache FreeMarker模板引擎的基本语法](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485013&idx=4&sn=832209ecf260498040b77e81bf2e0075&chksm=fde8cf18ca9f460e6da5d5ad8c3e8e32c4404199a3c1fd011a3cba4c39ddfb99fc18dcc4bf89&scene=0#rd)
 - [什么是消息队列？](https://mp.weixin.qq.com/s/HMmAM7nStxWGNzVRjb8nkQ)
 - [除了转发和负载均衡，nginx又一次让他玩出新高度](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485529&idx=1&sn=74536fd23c9a745086d3470234e6767a&chksm=fde8c114ca9f480297a1fae9b3eec5b2a83fd64aed71ca7b59acf581d8e1c422ff582d24df66&scene=0#rd)
-
+- [秒杀系统 架构分析 与 实战](https://mp.weixin.qq.com/s/82V7LXE6GFP96ZRCs5bH7g)
