@@ -19,7 +19,8 @@
 - 15、[为什么阿里巴巴禁止在 foreach 循环里进行元素的 remove/add 操作](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485482&idx=2&sn=d8019e7ef655c2057f44c1e856e71549&chksm=fde8c167ca9f487135b501098540eb35b0927b46b21579bc0a1ea876b3a11cb1ecd22b0bb90d&scene=0#rd)
 - 16、[为什么阿里巴巴建议集合初始化时，指定集合容量大小？](https://mp.weixin.qq.com/s/8kWiWhUQ3hMAcEQNL2GxbA)
 - 17、[为什么阿里巴巴不建议在for循环中使用"+"进行字符串拼接](https://mp.weixin.qq.com/s/RlQTOQAeWZe3aBqZLj6QPw)
-- 18、[秒懂 QPS、TPS、PV、UV、GMV、IP、RPS！](https://mp.weixin.qq.com/s/Q0fZqDoQsHJqSTBS3ehJJw)
+- 18、[为什么阿里巴巴禁止开发人员使用isSuccess作为变量名](https://mp.weixin.qq.com/s/2VPjNU7mzYkED-YUUIKSaA)
+- 21、[秒懂 QPS、TPS、PV、UV、GMV、IP、RPS！](https://mp.weixin.qq.com/s/Q0fZqDoQsHJqSTBS3ehJJw)
 
 
 
