@@ -20,6 +20,7 @@
 - 16、[为什么阿里巴巴建议集合初始化时，指定集合容量大小？](https://mp.weixin.qq.com/s/8kWiWhUQ3hMAcEQNL2GxbA)
 - 17、[为什么阿里巴巴不建议在for循环中使用"+"进行字符串拼接](https://mp.weixin.qq.com/s/RlQTOQAeWZe3aBqZLj6QPw)
 - 18、[为什么阿里巴巴禁止开发人员使用isSuccess作为变量名](https://mp.weixin.qq.com/s/2VPjNU7mzYkED-YUUIKSaA)
+- 19、[为什么阿里巴巴建议开发者谨慎使用继承？](https://mp.weixin.qq.com/s/SAmjXvQGpYtv2tvEqAHy6Q)
 - 21、[秒懂 QPS、TPS、PV、UV、GMV、IP、RPS！](https://mp.weixin.qq.com/s/Q0fZqDoQsHJqSTBS3ehJJw)
 - 22、[让我再撸一次HashMap](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485587&idx=2&sn=5b179ee1e582bba04a34deb39ab41e80&chksm=fde8c1deca9f48c863b1c9eb473b9e82db5aa7cce08d184c6de380814d3b4604da52a58344ce&scene=0#rd)
 

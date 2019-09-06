@@ -20,8 +20,8 @@
 - [利用SHA-1算法和RSA秘钥进行签名验签](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484721&idx=2&sn=3d7d71003b50762845487047ca3826ae&chksm=fde8cc7cca9f456a15f88c14709249064a1d11bc651e2b93101d185df2aca74c77680de2bf46&scene=0#rd)
 - [漫画：什么是SHA系列算法？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247484914&idx=1&sn=b6ddfe6af1218a8154c21503e69e1ca1&chksm=fde8ccbfca9f45a9a65a567770961c9667807e376fafc326f7e3edf63a4ea09f0c624f31eb77&scene=0#rd)
 - [解一道经典的腾讯算法面试题（小白也能看懂）](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485505&idx=3&sn=f7f06338bf6ca8ab744c2e2fa0c09d9a&chksm=fde8c10cca9f481ac49d274ee85e707025a4a442b578faedec1604b984a6e61378e4694afd7e&scene=0#rd)
-- [待续]()
-- [待续]()
+- [漫画：什么是二分查找？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485604&idx=2&sn=4fff1235fe17d125dda8a104474c4a65&chksm=fde8c1e9ca9f48ff3556361239823b9db5d773452be7118848e22cde0d87480dce555e300376&scene=0#rd)
+- [唯一识别码之UUID入门与实战](https://mp.weixin.qq.com/s/6ymVgVS8EOFmsVJj3gSsdA)
 
 
 
