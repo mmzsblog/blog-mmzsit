@@ -23,7 +23,7 @@
 - 19、[为什么阿里巴巴建议开发者谨慎使用继承？](https://mp.weixin.qq.com/s/SAmjXvQGpYtv2tvEqAHy6Q)
 - 21、[秒懂 QPS、TPS、PV、UV、GMV、IP、RPS！](https://mp.weixin.qq.com/s/Q0fZqDoQsHJqSTBS3ehJJw)
 - 22、[让我再撸一次HashMap](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485587&idx=2&sn=5b179ee1e582bba04a34deb39ab41e80&chksm=fde8c1deca9f48c863b1c9eb473b9e82db5aa7cce08d184c6de380814d3b4604da52a58344ce&scene=0#rd)
-
+- 23、[Java中的锁原理、锁优化、CAS、AQS详解！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485623&idx=2&sn=7e348a2d705f44f7ed7c12c2a7517997&chksm=fde8c1faca9f48ec954e0cb482ddf3989ae57604102f7de2b23885da6f6973ef5b32ff89f9eb&scene=0#rd)
 
 
 
