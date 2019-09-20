@@ -11,6 +11,8 @@
 - [常见 8种SQL 避坑指南](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485403&idx=1&sn=17d8f56f6e7db6e0ad154315b4142c8c&chksm=fde8ce96ca9f47806a4b17acd60424508da82e19158d8eb74c2cb9cb2f8df9036186a6629438&scene=0#rd)
 - [MySQL在Linux下如何实现定时备份！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485412&idx=1&sn=766282746ad7044b6f58d53ed51c1934&chksm=fde8cea9ca9f47bfd84f7483488c51a1896a5de8ae5ef81fbc7906df8a251db1e53d64844f7c&scene=0#rd)
 - [什么？MySQL中不能使用UTF-8？](https://mp.weixin.qq.com/s/Ak-qBAqBplzmuQ6G16GM7Q)
+- [原来这样调优可以攻破MySQL性能瓶颈！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247485685&idx=1&sn=adbede2e38cdc16433a20e62d2053aad&chksm=fde8c1b8ca9f48ae8ca4cff901c060f09476d91eeba341f7e93ad0f9c40ba60cb3d93f721c68&scene=0&xtrack=1#rd)
+
 
 ### MongoDB
 - [MongoDB是什么？看完你就知道了！](https://mp.weixin.qq.com/s/bYnAWeqsNDcOrZH4WhwJeQ)
