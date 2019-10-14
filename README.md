@@ -7,6 +7,10 @@
 >
 > 您的支持将成为我做公众号的最大动力！
 
+为了更加方便微信查看，目前已经将文章汇总到了小程序：
+![留言区域小程序](src/image/messages.jpg)
+
+
 ## :coffee:最佳推荐 ##
 - [热门推荐](src/best_recommendation/list_hot.md)
 - [Java基础精炼](src/best_recommendation/list_java_base.md)
